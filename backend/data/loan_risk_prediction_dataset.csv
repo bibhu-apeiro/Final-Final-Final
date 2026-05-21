@@ -1,51 +1,2001 @@
 Age,Income,LoanAmount,CreditScore,YearsExperience,Gender,Education,City,EmploymentType,LoanApproved
-45,85000,20000,750,15,Male,Bachelors,New York,Salaried,1
-30,45000,15000,620,5,Female,High School,Chicago,Salaried,0
-25,35000,10000,580,2,Male,Bachelors,Houston,Unemployed,0
-35,95000,30000,810,12,Female,Masters,Los Angeles,Salaried,1
-50,120000,50000,780,25,Male,PhD,Phoenix,Self-Employed,1
-22,25000,5000,550,1,Female,High School,New York,Salaried,0
-28,40000,12000,600,4,Male,Bachelors,Chicago,Salaried,0
-42,75000,25000,720,18,Female,Bachelors,Houston,Salaried,1
-38,65000,18000,680,10,Male,Masters,Los Angeles,Salaried,1
-55,150000,40000,830,30,Female,PhD,Phoenix,Self-Employed,1
-23,30000,8000,570,2,Male,High School,New York,Salaried,0
-31,50000,20000,640,7,Female,Bachelors,Chicago,Salaried,0
-47,90000,35000,760,20,Male,Bachelors,Houston,Salaried,1
-33,55000,15000,660,9,Female,Masters,Los Angeles,Salaried,1
-40,110000,45000,790,16,Male,PhD,Phoenix,Self-Employed,1
-26,38000,10000,590,3,Female,High School,New York,Salaried,0
-29,42000,14000,610,5,Male,Bachelors,Chicago,Salaried,0
-44,80000,28000,740,20,Female,Bachelors,Houston,Salaried,1
-36,60000,17000,670,11,Male,Masters,Los Angeles,Salaried,1
-52,130000,55000,800,27,Female,PhD,Phoenix,Self-Employed,1
-24,28000,7000,560,1,Male,High School,New York,Salaried,0
-32,52000,21000,650,8,Female,Bachelors,Chicago,Salaried,0
-48,95000,38000,770,22,Male,Bachelors,Houston,Salaried,1
-34,58000,16000,675,9,Female,Masters,Los Angeles,Salaried,1
-41,115000,48000,795,17,Male,PhD,Phoenix,Self-Employed,1
-27,39000,11000,595,4,Female,High School,New York,Salaried,0
-30,48000,13000,630,6,Male,Bachelors,Chicago,Salaried,0
-45,82000,29000,745,21,Female,Bachelors,Houston,Salaried,1
-37,62000,18000,685,12,Male,Masters,Los Angeles,Salaried,1
-53,135000,58000,805,28,Female,PhD,Phoenix,Self-Employed,1
-20,20000,5000,500,0,Male,High School,New York,Unemployed,0
-21,22000,6000,510,1,Female,High School,Chicago,Unemployed,0
-46,88000,32000,755,21,Male,Bachelors,Houston,Salaried,1
-39,68000,22000,695,13,Female,Masters,Los Angeles,Salaried,1
-51,125000,52000,785,26,Male,PhD,Phoenix,Self-Employed,1
-19,15000,3000,450,0,Female,High School,New York,Unemployed,0
-22,26000,7500,540,1,Male,Bachelors,Chicago,Salaried,0
-49,100000,40000,775,23,Female,Bachelors,Houston,Salaried,1
-35,59000,15500,665,9,Male,Masters,Los Angeles,Salaried,1
-43,105000,42000,788,19,Female,PhD,Phoenix,Self-Employed,1
-25,32000,9000,575,3,Male,High School,New York,Salaried,0
-28,44000,14500,615,5,Female,Bachelors,Chicago,Salaried,0
-50,118000,46000,792,25,Male,Bachelors,Houston,Salaried,1
-32,54000,16500,655,8,Female,Masters,Los Angeles,Salaried,1
-41,112000,44000,782,18,Male,PhD,Phoenix,Self-Employed,1
-24,29000,8500,565,2,Female,High School,New York,Salaried,0
-27,41000,12500,605,4,Male,Bachelors,Chicago,Salaried,0
-46,84000,31000,748,21,Female,Bachelors,Houston,Salaried,1
-34,56000,15800,662,8,Male,Masters,Los Angeles,Salaried,1
-54,145000,62000,815,29,Female,PhD,Phoenix,Self-Employed,1
+56,163870,1647324,849,35,Female,Masters,Mumbai,Self-Employed,0
+46,2119328,4761158,553,2,Female,Bachelors,Chennai,Unemployed,0
+32,1884073,1621190,550,4,Male,Masters,Delhi,Self-Employed,0
+60,194439,3985404,441,2,Female,High School,Pune,Self-Employed,0
+25,1620356,162669,626,18,Female,PhD,Pune,Self-Employed,1
+38,1353966,3446374,564,1,Female,Bachelors,Delhi,Salaried,0
+56,83828,904127,828,36,Male,Bachelors,Kolkata,Salaried,0
+36,384580,2639207,411,16,Male,High School,Bangalore,Salaried,0
+40,2481890,3209725,589,13,Female,High School,Bangalore,Salaried,1
+28,1987505,4726826,677,27,Male,Masters,Kolkata,Self-Employed,1
+28,129956,1788793,512,26,Female,PhD,Chennai,Unemployed,0
+41,1951610,469515,762,9,Female,Bachelors,Mumbai,Unemployed,1
+53,310129,156511,728,2,Male,High School,Hyderabad,Salaried,1
+57,1625438,68019,737,35,Female,Bachelors,Hyderabad,Unemployed,1
+41,1580388,3852207,513,37,Male,High School,Mumbai,Salaried,0
+20,1424220,4998851,836,24,Male,High School,Pune,Self-Employed,0
+39,142821,3190411,682,21,Male,Masters,Chennai,Salaried,1
+19,174071,1567166,456,38,Female,PhD,Kolkata,Salaried,0
+41,1254105,2023004,390,29,Female,High School,Hyderabad,Salaried,0
+61,1933819,1270949,567,20,Female,Bachelors,Delhi,Unemployed,0
+47,804748,174591,716,29,Female,High School,Bangalore,Salaried,1
+55,181912,105468,833,27,Female,High School,Delhi,Salaried,1
+19,178815,4974463,380,30,Female,High School,Bangalore,Unemployed,0
+38,1287715,528821,836,25,Female,Bachelors,Delhi,Unemployed,0
+50,2333525,801515,430,21,Male,High School,Kolkata,Salaried,1
+29,1176746,2175993,447,20,Female,Bachelors,Kolkata,Self-Employed,0
+39,706940,139424,657,0,Female,High School,Chennai,Salaried,1
+61,2152667,2353791,731,36,Female,High School,Delhi,Salaried,1
+42,1706846,128257,376,12,Male,High School,Delhi,Salaried,1
+44,1818766,92946,449,20,Male,Masters,Chennai,Salaried,1
+59,1598538,157524,705,8,Male,Masters,Chennai,Salaried,1
+45,80481,4868423,847,16,Female,Masters,Kolkata,Self-Employed,1
+33,936162,1270455,610,20,Male,Bachelors,Kolkata,Salaried,0
+32,452680,569738,565,30,Male,Bachelors,Pune,Self-Employed,0
+64,145232,1097542,361,38,Female,Bachelors,Delhi,Self-Employed,0
+61,1361396,406251,722,21,Female,High School,Kolkata,Salaried,1
+20,995384,108741,422,11,Female,Masters,Hyderabad,Salaried,0
+54,49068,796543,593,5,Male,Bachelors,Kolkata,Self-Employed,0
+24,345439,78054,444,15,Female,Bachelors,Delhi,Self-Employed,0
+38,70099,157227,842,25,Female,Bachelors,Chennai,Self-Employed,1
+26,752419,2305063,848,4,Female,Bachelors,Delhi,Self-Employed,0
+56,82278,256396,533,8,Female,PhD,Hyderabad,Salaried,0
+35,279017,4019990,699,39,Female,Bachelors,Mumbai,Self-Employed,0
+21,2426271,2750774,483,13,Female,Bachelors,Delhi,Salaried,0
+42,450343,2727467,580,29,Male,Bachelors,Mumbai,Unemployed,0
+31,62864,4454244,701,25,Female,PhD,Delhi,Self-Employed,0
+26,969164,1746769,514,28,Male,Bachelors,Hyderabad,Salaried,0
+43,1143294,3428926,590,18,Male,Bachelors,Mumbai,Salaried,0
+19,1977266,102265,427,7,Female,High School,Mumbai,Self-Employed,0
+37,453323,1674527,591,22,Male,Masters,Hyderabad,Salaried,0
+45,752419,2916992,746,34,Male,High School,Delhi,Salaried,1
+64,164028,889360,319,30,Male,Bachelors,Pune,Self-Employed,0
+24,1523782,150260,651,34,Female,Masters,Kolkata,Self-Employed,1
+61,710294,1947546,746,31,Male,PhD,Bangalore,Salaried,1
+25,2453692,891229,543,4,Male,Bachelors,Kolkata,Self-Employed,0
+64,79106,122055,485,15,Male,Masters,Mumbai,Unemployed,0
+52,2171009,1072544,707,16,Male,High School,Delhi,Unemployed,0
+31,1764528,271947,725,31,Female,Masters,Delhi,Self-Employed,1
+34,343306,440011,322,37,Female,Bachelors,Delhi,Unemployed,0
+53,1237685,1031237,822,31,Male,Bachelors,Delhi,Self-Employed,1
+57,1762093,1020935,481,19,Female,Masters,Pune,Salaried,0
+21,84249,794699,497,1,Female,Masters,Bangalore,Self-Employed,0
+19,698137,150260,356,19,Male,High School,Chennai,Salaried,1
+23,662002,785648,406,17,Female,Masters,Mumbai,Salaried,0
+59,99328,139959,551,0,Female,High School,Bangalore,Salaried,0
+21,214586,1194768,618,28,Male,Masters,Kolkata,Self-Employed,0
+46,1178743,351899,822,28,Male,Bachelors,Chennai,Self-Employed,1
+35,178815,90953,466,18,Female,High School,Chennai,Self-Employed,0
+43,18191,2220326,331,39,Female,Bachelors,Delhi,Salaried,0
+61,454717,1257820,342,5,Female,Bachelors,Bangalore,Salaried,0
+51,1188514,2554280,830,38,Female,Bachelors,Kolkata,Salaried,0
+27,1370678,883123,364,7,Male,High School,Delhi,Self-Employed,0
+53,88800,1570644,529,23,Male,High School,Delhi,Salaried,0
+31,2011603,917769,773,19,Male,Masters,Hyderabad,Salaried,1
+48,1255111,197044,552,13,Male,High School,Hyderabad,Salaried,1
+32,56621,640420,417,4,Male,Bachelors,Hyderabad,Self-Employed,0
+25,80481,4821058,532,39,Female,Bachelors,Pune,Unemployed,0
+31,2283152,4118736,718,33,Female,High School,Mumbai,Self-Employed,1
+40,1382487,192867,547,15,Male,Bachelors,Chennai,Salaried,1
+57,24200,676152,370,6,Male,Bachelors,Kolkata,Salaried,0
+38,40426,679809,444,15,Male,Bachelors,Chennai,Salaried,0
+33,50057,1793931,322,6,Female,Bachelors,Bangalore,Salaried,0
+62,1650023,190489,704,26,Female,Bachelors,Mumbai,Salaried,1
+35,212990,79227,780,13,Female,Bachelors,Delhi,Salaried,1
+64,512763,702264,429,13,Male,Masters,Mumbai,Salaried,0
+41,2057243,2166991,813,32,Male,High School,Delhi,Salaried,1
+43,56235,1996222,771,32,Male,PhD,Hyderabad,Salaried,1
+42,2432477,479720,429,19,Male,Bachelors,Mumbai,Self-Employed,0
+62,134964,3202532,388,35,Male,Masters,Delhi,Unemployed,0
+58,2283152,51051,573,6,Female,Bachelors,Chennai,Unemployed,0
+46,2090381,135016,356,31,Male,Bachelors,Hyderabad,Salaried,1
+32,1374392,671761,360,2,Female,PhD,Hyderabad,Salaried,0
+62,1934376,90149,582,38,Female,High School,Hyderabad,Unemployed,0
+18,1577842,1135468,657,28,Female,High School,Chennai,Salaried,1
+42,2487767,145632,521,23,Female,High School,Chennai,Self-Employed,1
+24,162292,533720,394,21,Female,PhD,Chennai,Self-Employed,0
+26,50262,88084,731,5,Male,Bachelors,Hyderabad,Unemployed,0
+41,574567,656324,641,23,Male,Bachelors,Mumbai,Unemployed,0
+18,241877,505442,801,39,Male,Masters,Delhi,Self-Employed,1
+61,2337393,443459,787,22,Female,Bachelors,Chennai,Self-Employed,1
+25,46822,1296232,703,37,Female,Masters,Mumbai,Salaried,0
+41,40923,4757506,350,9,Female,Bachelors,Delhi,Salaried,0
+28,289784,550083,554,15,Female,Masters,Hyderabad,Salaried,1
+34,21276,53748,827,10,Female,High School,Mumbai,Salaried,1
+25,1828768,1573815,776,31,Female,High School,Hyderabad,Salaried,1
+52,1058516,1229145,514,5,Male,Bachelors,Pune,Salaried,0
+52,197852,355666,524,23,Female,Bachelors,Chennai,Unemployed,0
+50,2119328,396521,571,32,Female,Bachelors,Bangalore,Salaried,1
+22,139279,3045533,466,11,Male,Bachelors,Mumbai,Salaried,0
+59,52650,820039,353,26,Female,High School,Chennai,Salaried,0
+56,64841,2689925,535,37,Male,Bachelors,Kolkata,Salaried,0
+58,346627,2347186,849,17,Male,Bachelors,Delhi,Salaried,0
+45,1367780,76553,437,38,Male,High School,Pune,Unemployed,0
+24,1466920,89560,372,12,Female,Bachelors,Chennai,Self-Employed,0
+26,253741,1930779,650,39,Male,Bachelors,Kolkata,Salaried,0
+25,41160,2739127,556,29,Male,Bachelors,Mumbai,Salaried,0
+29,1737199,4595025,455,12,Female,High School,Mumbai,Salaried,0
+51,1951610,2299850,675,33,Male,PhD,Kolkata,Self-Employed,1
+50,32772,138209,745,35,Female,Bachelors,Pune,Salaried,0
+40,1224984,172672,740,29,Female,High School,Kolkata,Salaried,1
+41,123284,448099,721,24,Male,Bachelors,Delhi,Salaried,1
+54,1538635,108819,564,1,Female,Masters,Mumbai,Unemployed,0
+52,56424,2479280,330,35,Female,Bachelors,Kolkata,Salaried,0
+61,20704,172672,512,17,Male,Masters,Bangalore,Unemployed,0
+57,2231478,135166,717,4,Male,High School,Bangalore,Salaried,1
+39,297621,2122989,560,18,Male,Masters,Kolkata,Self-Employed,0
+44,1847860,69692,432,17,Male,Bachelors,Delhi,Self-Employed,0
+52,2437635,3942517,563,31,Female,High School,Mumbai,Salaried,0
+18,1933819,1438453,703,20,Male,Bachelors,Bangalore,Salaried,1
+52,1868377,4124195,819,9,Male,PhD,Kolkata,Salaried,1
+54,2090706,1746769,770,36,Male,Masters,Hyderabad,Salaried,1
+64,1841207,532066,373,21,Female,Bachelors,Kolkata,Self-Employed,0
+31,65115,611906,586,12,Female,High School,Chennai,Salaried,0
+20,2064798,1915561,370,16,Female,Bachelors,Kolkata,Self-Employed,0
+18,367613,793805,538,8,Female,High School,Delhi,Salaried,0
+22,1894423,566330,711,23,Female,High School,Bangalore,Salaried,1
+43,1021481,51881,728,13,Male,Bachelors,Chennai,Self-Employed,1
+31,1157957,4870581,514,7,Female,Masters,Bangalore,Self-Employed,0
+56,939953,3967754,623,36,Female,Bachelors,Bangalore,Salaried,0
+44,2308258,1523055,593,18,Female,High School,Delhi,Salaried,1
+26,1981719,179036,322,27,Male,Bachelors,Kolkata,Salaried,0
+32,267807,386806,764,29,Male,PhD,Delhi,Unemployed,1
+32,15619,1380118,736,6,Female,Masters,Kolkata,Salaried,0
+43,16239,1405751,816,25,Male,Bachelors,Chennai,Salaried,1
+59,1999909,108219,777,39,Female,PhD,Delhi,Self-Employed,1
+30,307888,1696197,576,10,Male,Masters,Delhi,Salaried,0
+49,133787,143078,707,13,Male,High School,Hyderabad,Salaried,1
+56,1522031,3257302,338,20,Female,Bachelors,Pune,Salaried,0
+49,2371522,518903,604,7,Male,PhD,Mumbai,Unemployed,0
+21,91367,3494201,376,2,Female,Bachelors,Delhi,Unemployed,0
+47,2426271,133793,638,27,Female,High School,Pune,Self-Employed,1
+54,457430,4184605,773,28,Female,Bachelors,Mumbai,Salaried,0
+40,448349,422633,681,22,Male,Bachelors,Hyderabad,Self-Employed,1
+56,46552,1775112,610,17,Male,PhD,Kolkata,Salaried,0
+62,79041,1612934,571,34,Female,Bachelors,Kolkata,Salaried,0
+32,419972,805586,843,12,Female,Bachelors,Kolkata,Unemployed,0
+60,2102276,4398559,435,11,Male,Masters,Pune,Salaried,0
+46,1476433,1873276,722,4,Female,Bachelors,Pune,Salaried,0
+53,417875,293948,776,38,Male,High School,Mumbai,Unemployed,1
+30,96437,127986,738,10,Male,PhD,Kolkata,Self-Employed,1
+49,37740,90953,788,10,Male,Bachelors,Bangalore,Salaried,1
+24,39596,386806,569,30,Female,Bachelors,Delhi,Salaried,0
+39,70114,4804940,355,30,Female,Bachelors,Pune,Salaried,0
+45,343306,931870,405,12,Male,High School,Pune,Salaried,0
+19,80681,116630,435,13,Female,PhD,Pune,Salaried,0
+59,399855,2964266,669,24,Female,Bachelors,Mumbai,Salaried,0
+62,472528,1190992,530,32,Male,Bachelors,Kolkata,Unemployed,0
+23,2499430,655982,726,32,Male,High School,Bangalore,Salaried,1
+45,1192797,127525,597,14,Female,Bachelors,Delhi,Salaried,1
+45,690237,232230,701,15,Male,Masters,Delhi,Salaried,1
+61,617886,244439,810,37,Female,Masters,Kolkata,Salaried,1
+61,1227346,1438453,709,5,Male,PhD,Bangalore,Salaried,1
+37,361486,4906405,476,24,Male,Bachelors,Mumbai,Unemployed,0
+47,123387,3006891,398,14,Female,Masters,Pune,Unemployed,0
+28,33743,3878166,840,3,Female,Bachelors,Pune,Salaried,0
+45,2440240,1250043,379,3,Female,Masters,Hyderabad,Unemployed,0
+42,48160,4820711,722,29,Female,Masters,Kolkata,Salaried,0
+56,41987,336319,526,33,Female,Bachelors,Delhi,Self-Employed,0
+50,208255,469152,816,26,Male,Bachelors,Pune,Salaried,1
+18,827231,4998851,682,30,Male,High School,Hyderabad,Unemployed,0
+44,52846,687063,740,31,Female,Bachelors,Delhi,Salaried,0
+30,681211,1006555,694,38,Male,PhD,Delhi,Self-Employed,1
+58,658588,170617,406,8,Female,High School,Kolkata,Self-Employed,0
+20,1413120,3513993,655,7,Male,High School,Chennai,Salaried,1
+56,44300,770706,660,13,Male,High School,Hyderabad,Salaried,0
+23,1702346,4113048,691,32,Female,Masters,Chennai,Salaried,1
+25,535292,4724903,465,22,Female,Bachelors,Chennai,Self-Employed,0
+44,485431,1203359,746,20,Female,High School,Hyderabad,Salaried,1
+26,1848980,4374494,533,11,Male,Bachelors,Bangalore,Self-Employed,0
+54,1079365,219023,730,1,Female,Bachelors,Kolkata,Unemployed,0
+50,89270,1129801,827,12,Female,Bachelors,Hyderabad,Salaried,0
+59,103754,4054048,643,3,Female,Masters,Delhi,Salaried,0
+61,1736281,1207014,493,19,Female,Bachelors,Hyderabad,Self-Employed,0
+41,1705157,3694089,567,13,Female,Bachelors,Pune,Self-Employed,0
+32,325942,412603,799,29,Female,High School,Hyderabad,Unemployed,0
+49,447589,129507,376,28,Male,High School,Bangalore,Salaried,1
+49,30422,561659,321,7,Male,Bachelors,Chennai,Salaried,0
+41,1430109,144543,336,11,Male,Bachelors,Mumbai,Self-Employed,1
+58,1036397,1030881,336,37,Male,Bachelors,Bangalore,Self-Employed,0
+29,2249078,1975033,705,25,Female,High School,Bangalore,Self-Employed,1
+56,178815,1206884,562,1,Female,High School,Kolkata,Salaried,0
+19,51378,733903,762,39,Male,Masters,Pune,Salaried,1
+20,95532,773340,479,13,Male,Bachelors,Bangalore,Salaried,0
+54,1784996,103311,708,5,Male,Masters,Hyderabad,Unemployed,1
+34,1965065,1253054,385,39,Female,Masters,Pune,Salaried,0
+19,604648,4820711,414,30,Female,Bachelors,Kolkata,Self-Employed,0
+19,1837913,81417,647,16,Female,Masters,Hyderabad,Self-Employed,1
+45,592493,1653159,777,24,Male,Bachelors,Mumbai,Salaried,1
+40,67130,199888,598,31,Male,High School,Delhi,Salaried,0
+54,703047,857986,342,11,Male,Bachelors,Delhi,Self-Employed,0
+49,30563,610281,682,12,Male,Bachelors,Chennai,Salaried,1
+50,1427091,56364,515,18,Male,Bachelors,Chennai,Salaried,1
+18,713981,910957,685,24,Female,Bachelors,Mumbai,Salaried,1
+36,163936,1674820,571,30,Female,Bachelors,Delhi,Self-Employed,0
+19,917216,194341,412,36,Female,High School,Chennai,Unemployed,0
+61,1094736,59343,768,24,Female,High School,Pune,Self-Employed,1
+43,31456,512579,675,15,Female,High School,Bangalore,Self-Employed,0
+49,62076,1623857,512,37,Male,High School,Kolkata,Salaried,0
+23,1868377,1018599,785,22,Female,Bachelors,Hyderabad,Self-Employed,1
+49,75428,1523055,471,13,Male,Bachelors,Chennai,Unemployed,0
+21,692512,323769,823,5,Female,High School,Mumbai,Salaried,1
+28,843701,84578,463,24,Male,Masters,Hyderabad,Salaried,1
+34,1292338,546717,719,22,Male,Masters,Delhi,Unemployed,1
+55,222788,307573,766,11,Male,Bachelors,Mumbai,Self-Employed,1
+41,833569,804011,752,12,Male,Masters,Kolkata,Salaried,1
+22,2380662,155982,726,35,Male,Bachelors,Kolkata,Unemployed,1
+51,64723,1780960,522,38,Male,High School,Mumbai,Salaried,0
+23,1737199,65641,811,33,Female,PhD,Chennai,Salaried,1
+39,1145275,196158,801,5,Male,High School,Chennai,Self-Employed,1
+28,1538635,145432,765,37,Male,PhD,Delhi,Salaried,1
+33,139071,1969070,682,39,Female,Bachelors,Pune,Self-Employed,0
+50,1374392,2434352,794,7,Male,Bachelors,Delhi,Salaried,1
+26,90388,1365148,767,7,Female,Bachelors,Bangalore,Salaried,0
+23,1188514,179572,603,39,Female,Bachelors,Pune,Salaried,1
+33,1764598,705740,822,32,Male,High School,Hyderabad,Self-Employed,1
+46,2239452,184855,651,33,Male,Bachelors,Bangalore,Salaried,1
+20,499194,2023004,374,14,Female,Masters,Delhi,Unemployed,0
+37,73348,178652,753,35,Male,Bachelors,Pune,Self-Employed,0
+53,48160,272095,604,34,Female,High School,Pune,Salaried,0
+36,267823,1516438,710,21,Male,Bachelors,Bangalore,Salaried,0
+43,1371868,154428,313,22,Female,Masters,Mumbai,Self-Employed,1
+20,405107,457134,740,39,Male,Bachelors,Chennai,Salaried,1
+36,2142613,3446743,728,21,Male,Bachelors,Pune,Salaried,1
+37,1500159,528055,571,4,Female,PhD,Hyderabad,Salaried,1
+49,36927,183248,641,30,Female,Bachelors,Hyderabad,Salaried,0
+24,1909064,478104,458,12,Female,Bachelors,Pune,Salaried,1
+58,2485132,91777,489,27,Female,Masters,Bangalore,Self-Employed,1
+50,35609,451839,705,19,Male,Masters,Pune,Unemployed,0
+57,71532,952117,324,32,Female,High School,Bangalore,Salaried,0
+56,19358,183059,612,15,Female,High School,Mumbai,Unemployed,0
+35,2208521,196621,596,28,Male,Masters,Hyderabad,Unemployed,0
+57,1591088,1492353,711,22,Male,High School,Pune,Unemployed,0
+18,200417,162138,655,23,Female,PhD,Kolkata,Unemployed,1
+28,38291,141128,568,33,Male,High School,Delhi,Self-Employed,0
+45,2462261,326613,663,6,Female,Bachelors,Hyderabad,Self-Employed,1
+42,1621668,4113048,474,37,Male,High School,Mumbai,Salaried,0
+40,34816,1550887,818,36,Female,Masters,Kolkata,Salaried,1
+48,252889,439455,819,3,Male,Masters,Hyderabad,Unemployed,0
+47,1508036,155583,610,33,Female,Bachelors,Mumbai,Salaried,1
+59,641521,2771965,509,21,Female,PhD,Chennai,Salaried,0
+52,83011,606245,776,4,Male,High School,Mumbai,Salaried,0
+24,2232722,4037171,357,22,Male,High School,Mumbai,Self-Employed,0
+33,38177,2273541,743,14,Female,Masters,Chennai,Self-Employed,0
+43,785521,128116,458,30,Female,Masters,Pune,Salaried,1
+19,848939,84785,681,8,Male,Masters,Delhi,Salaried,1
+18,2056066,1206884,777,24,Male,Masters,Kolkata,Self-Employed,1
+29,406094,2584942,331,24,Male,Bachelors,Hyderabad,Salaried,0
+22,84252,53121,681,20,Male,High School,Bangalore,Self-Employed,1
+54,49068,650134,770,8,Male,PhD,Delhi,Salaried,1
+49,1667647,4479340,766,37,Male,Bachelors,Hyderabad,Unemployed,0
+26,389910,1708806,347,21,Male,Bachelors,Mumbai,Salaried,0
+58,44328,88346,569,22,Male,Bachelors,Bangalore,Self-Employed,0
+52,1679838,3698413,460,3,Male,High School,Chennai,Self-Employed,0
+36,1477163,1125800,687,28,Female,Masters,Delhi,Salaried,1
+33,2064798,1580516,593,14,Male,High School,Pune,Salaried,1
+20,79674,4680000,492,0,Male,Masters,Kolkata,Salaried,0
+37,104135,676545,355,29,Female,Bachelors,Delhi,Unemployed,0
+41,2009346,62306,659,28,Female,Bachelors,Delhi,Salaried,1
+50,686368,3214413,305,19,Female,Bachelors,Pune,Self-Employed,0
+41,445732,148239,658,32,Female,High School,Bangalore,Unemployed,1
+28,606022,4619972,424,35,Female,Bachelors,Chennai,Self-Employed,0
+25,21172,4051723,724,21,Female,Bachelors,Pune,Self-Employed,0
+53,544900,679809,444,12,Male,Bachelors,Hyderabad,Self-Employed,0
+55,244129,178447,405,6,Female,High School,Chennai,Unemployed,0
+57,739017,950653,606,7,Female,High School,Pune,Unemployed,0
+37,2208770,759603,442,27,Female,High School,Delhi,Unemployed,0
+52,2454178,546030,357,8,Male,Bachelors,Chennai,Self-Employed,0
+42,70114,4583273,831,24,Female,High School,Bangalore,Salaried,0
+52,57685,1766325,306,15,Male,Masters,Bangalore,Salaried,0
+42,79178,1396923,596,9,Female,Bachelors,Kolkata,Salaried,0
+46,2380765,2299189,591,10,Female,Masters,Chennai,Unemployed,0
+35,222788,1653159,668,30,Male,Masters,Kolkata,Unemployed,0
+63,1544789,1096303,812,11,Male,High School,Hyderabad,Salaried,1
+35,1837913,1310269,605,30,Female,Masters,Pune,Salaried,1
+19,1787516,697488,627,13,Male,Bachelors,Mumbai,Salaried,1
+52,1991024,4757506,552,31,Male,Masters,Hyderabad,Salaried,1
+33,87240,959094,722,16,Female,Masters,Bangalore,Self-Employed,0
+58,417563,4604325,444,34,Female,High School,Delhi,Salaried,0
+53,1954418,3931375,817,0,Female,Bachelors,Bangalore,Salaried,0
+50,1255111,158297,513,28,Male,Bachelors,Mumbai,Salaried,1
+21,379297,796860,522,3,Female,Bachelors,Delhi,Salaried,0
+50,118313,3556232,480,22,Female,High School,Chennai,Unemployed,0
+31,1687771,4430412,637,27,Male,High School,Chennai,Salaried,0
+38,1841207,4087001,391,15,Male,Bachelors,Hyderabad,Unemployed,0
+37,604648,589546,532,11,Female,Bachelors,Bangalore,Salaried,1
+25,84252,532066,812,20,Male,PhD,Delhi,Salaried,1
+24,531852,122055,748,16,Female,Masters,Pune,Self-Employed,1
+20,793481,542221,689,39,Male,Bachelors,Delhi,Self-Employed,1
+34,1301469,2273541,520,12,Female,High School,Kolkata,Self-Employed,0
+50,93222,2229167,537,31,Male,High School,Mumbai,Salaried,0
+29,2286261,187150,438,36,Male,Bachelors,Hyderabad,Salaried,0
+39,84249,496794,387,14,Male,Masters,Chennai,Self-Employed,0
+39,719780,3776839,654,11,Male,Bachelors,Bangalore,Salaried,0
+63,44301,131780,787,14,Female,Bachelors,Delhi,Salaried,1
+47,405035,189379,518,33,Male,Masters,Chennai,Self-Employed,1
+55,302779,1600607,456,5,Female,PhD,Bangalore,Salaried,0
+55,41966,226026,572,16,Male,High School,Chennai,Salaried,0
+62,785521,1700444,467,19,Male,High School,Bangalore,Salaried,0
+25,1313081,759603,522,8,Female,Bachelors,Chennai,Unemployed,0
+44,244129,96335,668,4,Male,Bachelors,Pune,Salaried,1
+44,306487,568863,435,22,Male,PhD,Kolkata,Unemployed,0
+51,352164,4113048,530,32,Female,High School,Mumbai,Salaried,0
+38,1965065,1892706,573,37,Male,High School,Chennai,Self-Employed,0
+47,24108,704917,817,13,Female,Masters,Mumbai,Salaried,1
+50,1105842,195281,551,16,Male,Masters,Chennai,Salaried,1
+45,1173222,1647324,714,18,Male,PhD,Hyderabad,Self-Employed,1
+64,185457,191842,612,32,Male,Bachelors,Delhi,Self-Employed,0
+50,2306242,1708063,483,0,Female,Bachelors,Kolkata,Self-Employed,0
+22,72784,326202,819,12,Male,High School,Hyderabad,Self-Employed,0
+36,486446,403085,573,26,Male,High School,Pune,Salaried,1
+21,78037,983163,342,5,Male,Bachelors,Kolkata,Salaried,0
+52,109283,367477,321,5,Male,Bachelors,Mumbai,Salaried,0
+34,812023,105468,520,32,Male,High School,Delhi,Unemployed,0
+61,445732,3917936,782,29,Male,Masters,Bangalore,Salaried,1
+45,1202098,1081411,303,34,Male,High School,Hyderabad,Unemployed,0
+47,67130,4299782,546,22,Male,Masters,Kolkata,Salaried,0
+46,67233,1361340,513,9,Male,High School,Pune,Self-Employed,0
+63,29056,185758,721,18,Female,Masters,Hyderabad,Salaried,0
+23,973866,2093246,776,27,Male,High School,Delhi,Salaried,1
+52,35281,416486,849,22,Female,Masters,Delhi,Self-Employed,0
+58,2481890,3840820,835,3,Female,High School,Mumbai,Salaried,1
+54,351435,3049458,513,19,Female,Bachelors,Pune,Unemployed,0
+41,605848,128672,689,18,Male,Masters,Delhi,Self-Employed,1
+46,1236983,53358,321,26,Female,High School,Delhi,Self-Employed,0
+63,224447,357550,374,33,Female,High School,Bangalore,Unemployed,0
+48,58596,1333285,792,3,Female,Masters,Mumbai,Self-Employed,0
+52,1909064,55454,444,37,Male,Masters,Mumbai,Self-Employed,0
+50,2032844,65029,576,6,Female,High School,Pune,Salaried,1
+38,389530,712035,402,6,Male,High School,Delhi,Salaried,0
+49,2387516,1773069,392,25,Female,High School,Bangalore,Self-Employed,0
+40,46890,1699092,789,25,Female,High School,Chennai,Unemployed,0
+50,51487,178180,663,18,Male,PhD,Kolkata,Salaried,1
+20,512763,470675,381,8,Male,Bachelors,Hyderabad,Salaried,0
+35,92576,96999,790,19,Female,Bachelors,Mumbai,Self-Employed,1
+42,21406,1922167,405,15,Female,PhD,Bangalore,Salaried,0
+59,19470,182233,790,16,Female,Bachelors,Pune,Self-Employed,0
+48,1701260,53969,842,21,Male,Bachelors,Bangalore,Self-Employed,1
+20,1630544,448099,458,12,Male,Bachelors,Delhi,Salaried,1
+57,2226802,3048939,711,11,Female,Bachelors,Kolkata,Unemployed,0
+63,1224984,163776,419,9,Female,Bachelors,Mumbai,Salaried,0
+41,1734104,4781652,429,0,Male,High School,Chennai,Self-Employed,0
+49,610155,2689925,771,31,Male,High School,Delhi,Salaried,0
+64,52650,1232206,333,29,Female,High School,Mumbai,Salaried,0
+39,1764528,3994039,766,7,Male,High School,Hyderabad,Unemployed,0
+40,93612,4974463,507,20,Female,Bachelors,Pune,Salaried,0
+19,1549847,295790,469,21,Male,Bachelors,Mumbai,Salaried,0
+44,237660,137592,333,17,Female,Bachelors,Bangalore,Salaried,0
+59,24715,1667392,753,1,Female,High School,Hyderabad,Salaried,0
+19,2276676,4890031,785,8,Female,Bachelors,Kolkata,Salaried,1
+43,75428,871916,365,2,Male,High School,Chennai,Salaried,0
+34,271033,773228,412,25,Female,Bachelors,Kolkata,Unemployed,0
+57,2160858,172778,354,20,Female,Masters,Bangalore,Self-Employed,0
+50,456932,1746769,690,29,Male,High School,Chennai,Salaried,1
+26,317322,59221,527,27,Female,Masters,Chennai,Self-Employed,1
+60,1304783,4377942,390,35,Female,Masters,Delhi,Salaried,0
+56,277832,1067673,300,25,Female,High School,Chennai,Salaried,0
+46,60033,385550,732,33,Male,High School,Mumbai,Salaried,0
+59,720972,152421,490,7,Male,PhD,Kolkata,Salaried,1
+43,1884073,4702708,333,9,Male,High School,Pune,Unemployed,0
+52,2377200,131780,329,13,Male,Masters,Pune,Salaried,1
+42,710294,3650224,769,39,Female,Bachelors,Kolkata,Self-Employed,0
+41,48397,655224,793,14,Male,High School,Delhi,Salaried,1
+30,346627,510929,760,16,Male,High School,Chennai,Salaried,1
+24,973620,347735,737,17,Male,Bachelors,Bangalore,Self-Employed,1
+53,1188514,2584942,443,31,Female,Bachelors,Hyderabad,Self-Employed,0
+62,2435115,327572,802,37,Female,Bachelors,Hyderabad,Salaried,1
+37,812023,85440,432,22,Female,PhD,Mumbai,Salaried,0
+18,180102,92222,785,22,Male,Masters,Delhi,Salaried,1
+25,354311,2465806,517,34,Female,High School,Hyderabad,Unemployed,0
+63,1676806,4380969,776,38,Female,Masters,Chennai,Salaried,1
+33,98360,1809260,604,14,Male,Masters,Pune,Salaried,0
+31,2031972,182659,406,23,Female,PhD,Bangalore,Unemployed,0
+29,259116,4051723,357,27,Male,Bachelors,Chennai,Salaried,0
+40,198605,4456850,514,15,Male,Masters,Delhi,Salaried,0
+32,50585,593120,491,15,Female,Bachelors,Bangalore,Salaried,0
+45,2142613,2175037,659,39,Male,Bachelors,Hyderabad,Self-Employed,0
+51,2261019,1699084,841,38,Male,PhD,Bangalore,Salaried,1
+19,447589,327572,606,5,Male,High School,Bangalore,Salaried,1
+49,86966,1083007,404,1,Male,High School,Bangalore,Unemployed,0
+40,157804,1384718,811,12,Male,Masters,Hyderabad,Salaried,1
+39,2481890,3994039,760,8,Male,High School,Chennai,Salaried,1
+42,2070387,195830,475,33,Female,Masters,Bangalore,Salaried,1
+39,1687954,113928,568,16,Male,Masters,Chennai,Self-Employed,1
+39,2124219,426453,317,26,Male,High School,Bangalore,Unemployed,0
+59,1208140,72337,653,28,Male,Bachelors,Bangalore,Salaried,1
+23,2160858,228633,724,36,Male,Masters,Delhi,Salaried,1
+32,2354336,4023969,763,21,Female,Bachelors,Chennai,Salaried,1
+60,148868,96250,550,23,Female,PhD,Pune,Salaried,1
+54,761501,2739127,835,6,Male,Masters,Chennai,Self-Employed,0
+50,84249,53969,780,33,Female,Bachelors,Kolkata,Salaried,1
+25,217322,222490,637,11,Male,High School,Hyderabad,Salaried,1
+61,51321,2689925,687,22,Male,PhD,Pune,Salaried,0
+61,390372,4908087,386,14,Male,Bachelors,Delhi,Salaried,0
+22,109596,4993220,393,32,Male,High School,Chennai,Self-Employed,0
+56,538547,54926,392,12,Female,Masters,Delhi,Salaried,1
+21,1156449,88346,488,22,Female,Masters,Pune,Unemployed,0
+23,31163,3352670,495,37,Male,Bachelors,Delhi,Salaried,0
+62,310097,3694512,406,31,Male,Bachelors,Delhi,Unemployed,0
+49,19114,1648389,624,34,Female,Bachelors,Mumbai,Salaried,0
+47,1789954,304700,715,0,Female,Masters,Chennai,Self-Employed,1
+64,676168,1384718,378,4,Male,Masters,Delhi,Salaried,0
+52,41966,1911275,512,12,Female,PhD,Mumbai,Self-Employed,0
+57,2236265,621837,481,4,Male,Bachelors,Mumbai,Salaried,0
+33,1250704,62306,339,31,Female,Masters,Bangalore,Salaried,1
+30,2367964,4367713,320,20,Female,PhD,Bangalore,Self-Employed,0
+59,1523782,2819973,768,23,Female,High School,Hyderabad,Self-Employed,1
+47,1376338,1380118,609,17,Female,High School,Pune,Self-Employed,0
+36,97205,4676073,842,20,Male,Masters,Chennai,Salaried,1
+34,2042642,153119,838,9,Male,High School,Bangalore,Salaried,1
+36,1201397,4067791,668,23,Female,High School,Pune,Self-Employed,0
+45,75576,3513993,309,39,Male,High School,Chennai,Salaried,0
+43,1836907,2985663,790,20,Female,Bachelors,Pune,Salaried,1
+54,1514743,181379,827,24,Female,High School,Hyderabad,Salaried,1
+43,808877,959094,524,22,Male,Bachelors,Hyderabad,Salaried,0
+40,510651,1273656,425,21,Male,PhD,Mumbai,Salaried,0
+26,1007820,3760399,357,3,Male,Masters,Mumbai,Self-Employed,0
+29,46750,4379412,427,33,Female,Masters,Chennai,Unemployed,0
+18,656222,1468689,572,5,Male,High School,Pune,Salaried,0
+18,2453692,184855,800,27,Male,Masters,Pune,Unemployed,1
+64,1868266,597819,772,30,Male,Masters,Bangalore,Self-Employed,1
+51,440373,298234,843,34,Male,Bachelors,Bangalore,Unemployed,1
+49,2423848,1911275,827,38,Female,High School,Chennai,Self-Employed,1
+42,454341,1983969,684,22,Female,Bachelors,Kolkata,Self-Employed,0
+57,833997,197044,445,5,Female,Masters,Bangalore,Salaried,0
+62,353113,4953028,674,15,Female,Bachelors,Delhi,Salaried,0
+18,465446,4071088,334,1,Female,Masters,Bangalore,Salaried,0
+33,181816,2992652,747,23,Female,Bachelors,Kolkata,Unemployed,0
+56,341130,120409,330,16,Female,Bachelors,Pune,Unemployed,0
+22,41984,681799,428,0,Male,Masters,Mumbai,Self-Employed,0
+39,461133,692461,371,5,Female,High School,Mumbai,Unemployed,0
+46,49503,3029516,793,4,Female,Bachelors,Pune,Unemployed,0
+20,2167505,448141,338,28,Female,PhD,Mumbai,Salaried,1
+29,87146,4491637,461,11,Female,Masters,Bangalore,Self-Employed,0
+43,943316,759603,418,38,Male,High School,Hyderabad,Salaried,1
+33,123705,1175572,408,2,Female,High School,Mumbai,Salaried,0
+54,39611,69738,738,0,Female,Bachelors,Hyderabad,Salaried,0
+39,706940,82299,688,26,Male,Masters,Kolkata,Salaried,1
+46,50585,191355,310,23,Female,Bachelors,Hyderabad,Self-Employed,0
+31,41966,68074,555,18,Female,Bachelors,Kolkata,Salaried,0
+45,197661,770706,641,7,Female,High School,Bangalore,Unemployed,0
+22,1736281,1516438,460,1,Female,Masters,Pune,Salaried,0
+64,54922,171688,547,29,Female,Masters,Delhi,Salaried,0
+47,68420,3457913,775,29,Female,PhD,Bangalore,Self-Employed,0
+63,94973,4731801,805,38,Female,Bachelors,Mumbai,Self-Employed,0
+22,162812,344282,811,31,Male,Masters,Bangalore,Salaried,0
+29,368448,186949,608,0,Male,Bachelors,Kolkata,Salaried,0
+33,96040,4143167,809,37,Female,Bachelors,Bangalore,Salaried,0
+43,1253298,358477,658,12,Male,Masters,Bangalore,Unemployed,1
+43,389530,1263120,766,10,Female,High School,Delhi,Self-Employed,1
+38,120567,2964266,702,9,Male,Bachelors,Kolkata,Salaried,0
+56,943316,3942517,705,25,Female,Masters,Chennai,Salaried,0
+53,51451,1566868,487,19,Male,Bachelors,Chennai,Unemployed,0
+50,1905453,1658326,444,16,Female,High School,Kolkata,Self-Employed,0
+47,273672,116125,415,16,Male,Bachelors,Chennai,Self-Employed,0
+54,1210644,496213,541,3,Male,Bachelors,Mumbai,Salaried,1
+40,639544,1961140,812,4,Female,PhD,Chennai,Unemployed,0
+27,44165,288422,449,22,Female,High School,Mumbai,Self-Employed,0
+22,143541,4175164,564,9,Male,Masters,Kolkata,Self-Employed,0
+53,2232722,1723953,822,27,Male,High School,Chennai,Salaried,1
+51,339647,2783566,595,32,Female,High School,Chennai,Unemployed,0
+48,1828821,2535620,509,25,Male,High School,Pune,Self-Employed,0
+27,1568803,1892035,647,28,Female,Masters,Hyderabad,Unemployed,0
+36,48361,137592,608,26,Male,High School,Mumbai,Salaried,0
+49,367491,701691,782,17,Male,Masters,Mumbai,Salaried,1
+18,1514743,3350339,796,39,Female,Bachelors,Bangalore,Salaried,1
+22,83008,176503,437,9,Female,PhD,Delhi,Salaried,0
+62,21406,4583273,786,4,Female,Masters,Chennai,Salaried,0
+21,1687450,891229,583,9,Male,Masters,Pune,Salaried,1
+33,290868,4932878,427,20,Male,Masters,Delhi,Salaried,0
+41,691420,572818,732,23,Male,Bachelors,Hyderabad,Self-Employed,1
+33,1035381,1833237,770,37,Female,Masters,Hyderabad,Salaried,1
+19,862455,759070,354,2,Male,High School,Pune,Salaried,0
+45,62614,140417,758,39,Male,High School,Delhi,Unemployed,0
+49,2265348,53009,843,30,Female,Bachelors,Chennai,Self-Employed,1
+44,59139,676384,764,36,Male,Bachelors,Hyderabad,Self-Employed,1
+37,952891,228633,374,1,Male,Bachelors,Pune,Salaried,0
+41,350870,2822564,400,1,Female,Bachelors,Mumbai,Salaried,0
+29,2119328,3326059,341,38,Female,Bachelors,Bangalore,Salaried,0
+52,487061,161023,747,33,Female,Bachelors,Pune,Salaried,1
+50,1050458,171724,730,19,Female,High School,Kolkata,Unemployed,1
+50,2261019,747670,392,32,Female,PhD,Hyderabad,Self-Employed,0
+60,68363,89553,421,3,Female,PhD,Hyderabad,Salaried,0
+54,1633296,1443789,407,10,Female,PhD,Chennai,Self-Employed,0
+29,72009,4430412,595,4,Female,Bachelors,Chennai,Salaried,0
+20,44300,4593398,370,24,Female,Bachelors,Kolkata,Salaried,0
+18,812229,197531,345,36,Male,PhD,Hyderabad,Unemployed,0
+50,559871,167509,476,33,Female,PhD,Delhi,Salaried,0
+57,120567,263014,367,8,Female,Masters,Bangalore,Unemployed,0
+27,19255,937263,475,5,Male,Bachelors,Delhi,Salaried,0
+60,191006,189920,471,17,Female,Bachelors,Kolkata,Self-Employed,0
+61,205432,1782868,703,13,Male,Masters,Kolkata,Salaried,0
+46,222788,610869,323,18,Male,High School,Bangalore,Salaried,0
+30,44371,662092,691,13,Female,Bachelors,Kolkata,Self-Employed,0
+29,28467,1849091,790,39,Male,Masters,Kolkata,Unemployed,0
+48,1643521,1788793,801,16,Female,Masters,Hyderabad,Self-Employed,1
+63,382017,111576,327,34,Female,Bachelors,Pune,Self-Employed,0
+19,231234,120453,730,28,Male,Bachelors,Hyderabad,Unemployed,0
+52,2248736,144283,606,16,Male,PhD,Bangalore,Salaried,1
+40,2167304,2965398,521,7,Male,Bachelors,Chennai,Salaried,0
+34,123705,56511,645,0,Female,Masters,Delhi,Salaried,1
+43,169519,4443631,396,35,Female,Masters,Chennai,Self-Employed,0
+25,1382470,1378963,685,6,Male,Masters,Chennai,Self-Employed,1
+46,1477022,1353958,788,4,Female,Masters,Pune,Self-Employed,1
+43,1522031,1618599,493,23,Female,Bachelors,Delhi,Unemployed,0
+27,1650023,763543,550,27,Male,Bachelors,Chennai,Self-Employed,1
+43,245016,163502,529,16,Male,Bachelors,Bangalore,Salaried,1
+51,26871,2689925,730,36,Male,High School,Delhi,Salaried,0
+58,2199309,410448,751,19,Male,High School,Mumbai,Unemployed,1
+24,2341535,1903036,842,2,Male,High School,Pune,Salaried,1
+21,1165847,1871192,471,36,Male,Masters,Chennai,Salaried,0
+62,1078533,53358,498,25,Male,High School,Kolkata,Salaried,0
+28,67249,269639,768,14,Male,High School,Delhi,Salaried,0
+46,1802523,841505,743,7,Male,High School,Mumbai,Self-Employed,1
+53,63244,2787600,828,12,Male,Bachelors,Kolkata,Salaried,1
+42,1965918,1722426,623,2,Female,High School,Mumbai,Unemployed,0
+38,79612,110410,652,0,Female,Bachelors,Chennai,Salaried,0
+53,2057243,128484,591,8,Male,High School,Kolkata,Self-Employed,1
+27,2255612,4879271,487,30,Female,Masters,Chennai,Self-Employed,0
+54,464448,195830,407,25,Female,PhD,Kolkata,Self-Employed,0
+26,1068020,432520,327,16,Female,PhD,Delhi,Unemployed,0
+41,2199539,1874657,541,33,Female,Bachelors,Hyderabad,Salaried,0
+52,24074,552621,764,8,Female,Bachelors,Bangalore,Salaried,0
+52,232723,910957,715,12,Female,Bachelors,Hyderabad,Salaried,1
+53,965982,337900,784,4,Male,Bachelors,Bangalore,Unemployed,0
+35,2348800,528821,407,12,Male,Bachelors,Hyderabad,Unemployed,0
+56,1679838,184794,426,0,Female,High School,Mumbai,Salaried,0
+49,952372,1048004,513,24,Female,Masters,Pune,Self-Employed,0
+41,1963937,2273541,591,3,Male,High School,Kolkata,Salaried,0
+40,25754,558105,323,35,Female,Bachelors,Chennai,Salaried,0
+49,2424573,4680000,790,9,Female,Bachelors,Pune,Self-Employed,1
+54,435589,479720,803,27,Female,Bachelors,Delhi,Salaried,1
+29,129055,1980777,568,5,Female,Masters,Delhi,Salaried,0
+30,488447,2723503,370,26,Female,Bachelors,Delhi,Self-Employed,0
+40,810925,64719,643,11,Male,Bachelors,Bangalore,Self-Employed,1
+42,823494,95927,346,2,Male,Bachelors,Chennai,Salaried,1
+52,1990083,109754,654,32,Female,High School,Delhi,Self-Employed,1
+58,91666,3063692,848,9,Male,Bachelors,Delhi,Salaried,0
+47,924871,610281,557,30,Female,PhD,Hyderabad,Salaried,1
+34,1147341,773228,361,14,Female,PhD,Mumbai,Self-Employed,0
+37,43671,240542,366,6,Female,Masters,Kolkata,Salaried,0
+42,930599,597172,393,35,Female,High School,Kolkata,Salaried,0
+39,1356047,88084,509,13,Female,High School,Kolkata,Salaried,1
+30,1867003,3416084,551,13,Female,Bachelors,Pune,Unemployed,0
+36,1918734,959204,725,2,Female,Masters,Hyderabad,Salaried,1
+53,2263034,176278,609,2,Female,Masters,Hyderabad,Salaried,1
+29,2426271,125504,514,21,Female,Masters,Mumbai,Salaried,1
+58,156492,1460183,657,18,Male,Bachelors,Bangalore,Salaried,0
+36,1232635,85554,577,34,Female,High School,Pune,Self-Employed,1
+29,52384,1263930,404,11,Male,High School,Mumbai,Salaried,0
+26,63231,805586,458,4,Male,High School,Delhi,Self-Employed,0
+24,341130,558766,510,9,Female,Bachelors,Chennai,Self-Employed,0
+45,1785622,245256,722,32,Male,High School,Pune,Self-Employed,1
+31,446874,193464,637,12,Female,Masters,Pune,Salaried,1
+48,87240,181379,387,34,Female,Bachelors,Delhi,Salaried,0
+36,1965065,4573011,787,31,Female,Bachelors,Delhi,Salaried,1
+64,2469831,242674,830,10,Female,High School,Chennai,Salaried,1
+33,380277,1320082,483,37,Male,High School,Kolkata,Salaried,0
+22,702435,498076,556,23,Male,Masters,Pune,Self-Employed,1
+52,33309,62748,538,34,Female,Bachelors,Mumbai,Salaried,0
+29,46174,773228,695,18,Male,Bachelors,Bangalore,Salaried,0
+42,79106,1301946,630,5,Male,Masters,Delhi,Salaried,0
+38,288490,1240210,788,39,Male,Bachelors,Delhi,Salaried,1
+53,44371,198459,432,34,Female,Bachelors,Bangalore,Unemployed,0
+40,247603,2802009,470,3,Male,Masters,Mumbai,Salaried,0
+33,319055,865756,572,32,Male,Masters,Delhi,Unemployed,0
+56,2156667,1962369,495,12,Male,Bachelors,Bangalore,Self-Employed,0
+62,2386559,1614661,802,35,Female,Bachelors,Hyderabad,Unemployed,0
+59,48397,125209,333,18,Male,Bachelors,Delhi,Salaried,0
+56,346353,126173,701,11,Male,Masters,Kolkata,Unemployed,0
+31,196722,1341220,776,10,Female,Bachelors,Kolkata,Salaried,1
+48,183369,3513993,437,5,Male,Masters,Delhi,Self-Employed,0
+22,2260129,1428474,522,11,Female,Masters,Hyderabad,Salaried,1
+52,2436197,4724903,562,26,Female,PhD,Delhi,Salaried,1
+40,47371,143078,327,24,Female,High School,Kolkata,Self-Employed,0
+46,1425683,128484,337,2,Female,High School,Hyderabad,Self-Employed,0
+60,88770,725754,737,2,Female,High School,Delhi,Salaried,0
+28,2219282,1680432,575,19,Female,Masters,Hyderabad,Salaried,1
+35,148777,3883578,567,27,Male,Bachelors,Mumbai,Self-Employed,0
+64,129055,1995344,709,22,Female,High School,Mumbai,Salaried,0
+29,1374392,131780,797,2,Male,High School,Chennai,Salaried,1
+26,446874,380074,499,23,Male,Bachelors,Mumbai,Unemployed,0
+27,1737199,94757,381,39,Female,High School,Pune,Unemployed,0
+61,577175,793741,736,5,Male,High School,Hyderabad,Unemployed,0
+34,1693392,481197,783,19,Male,Bachelors,Pune,Self-Employed,1
+55,208212,352545,552,10,Male,High School,Pune,Salaried,1
+24,1762093,108829,359,31,Female,High School,Delhi,Unemployed,0
+63,1112257,804011,671,26,Male,Masters,Delhi,Salaried,1
+30,48160,295761,432,20,Male,Masters,Bangalore,Salaried,0
+57,412813,68395,427,12,Female,Bachelors,Hyderabad,Self-Employed,0
+59,829638,2299189,631,21,Male,High School,Pune,Salaried,0
+26,1414634,76206,353,34,Male,Masters,Pune,Salaried,1
+44,20704,112901,603,21,Male,Bachelors,Mumbai,Salaried,0
+19,1902980,4761158,668,27,Female,High School,Kolkata,Salaried,1
+22,1459318,1705112,834,20,Male,High School,Hyderabad,Self-Employed,1
+46,971249,3949834,557,17,Male,High School,Kolkata,Salaried,0
+54,2252462,3137317,463,30,Female,Bachelors,Hyderabad,Salaried,0
+55,991450,81422,561,36,Female,Masters,Hyderabad,Salaried,1
+36,533691,1442974,787,20,Female,Masters,Chennai,Salaried,1
+25,1292338,1753197,342,13,Male,Bachelors,Bangalore,Salaried,0
+62,57913,2876058,659,24,Female,Bachelors,Kolkata,Unemployed,0
+18,1367780,133291,641,26,Female,Bachelors,Chennai,Salaried,1
+39,23906,311361,647,39,Female,Bachelors,Mumbai,Unemployed,0
+34,323332,3444359,458,22,Male,High School,Bangalore,Salaried,0
+24,2371522,777263,756,30,Female,Bachelors,Bangalore,Salaried,1
+42,56323,1461414,779,28,Female,Masters,Pune,Salaried,0
+62,2134947,681799,314,29,Female,Bachelors,Hyderabad,Salaried,1
+21,927826,108741,779,25,Female,Masters,Hyderabad,Salaried,1
+53,315002,336645,487,19,Female,Bachelors,Delhi,Salaried,0
+23,382017,198441,310,37,Male,Bachelors,Hyderabad,Salaried,1
+48,87930,144837,779,18,Male,High School,Hyderabad,Salaried,1
+36,97811,1930017,390,26,Female,Bachelors,Hyderabad,Self-Employed,0
+61,1202098,4307199,554,24,Female,Masters,Pune,Unemployed,0
+56,455093,515617,796,39,Female,Bachelors,Mumbai,Salaried,1
+44,54532,1553818,737,37,Male,High School,Hyderabad,Self-Employed,0
+27,1028936,109550,746,22,Male,High School,Pune,Self-Employed,1
+43,573869,671761,667,28,Male,Bachelors,Bangalore,Salaried,1
+36,72784,107221,787,14,Male,Bachelors,Pune,Unemployed,0
+56,1802523,963402,640,2,Female,Bachelors,Hyderabad,Unemployed,0
+20,636535,1356922,325,9,Female,PhD,Chennai,Salaried,0
+62,2445238,158464,519,14,Female,Masters,Pune,Self-Employed,0
+30,421909,4037171,718,15,Female,Bachelors,Kolkata,Self-Employed,0
+45,967874,1229763,556,16,Male,High School,Mumbai,Salaried,1
+37,2419093,516527,715,18,Female,High School,Mumbai,Salaried,1
+45,65115,2874506,673,10,Male,Bachelors,Bangalore,Unemployed,0
+25,81024,1283410,777,4,Male,Masters,Pune,Self-Employed,0
+58,69691,3506744,775,4,Female,Masters,Bangalore,Salaried,0
+56,87588,2276393,758,13,Male,Bachelors,Bangalore,Salaried,0
+18,94141,1344344,412,25,Male,High School,Chennai,Unemployed,0
+20,2487767,4203531,828,7,Female,PhD,Delhi,Salaried,1
+30,237924,245256,788,4,Male,PhD,Bangalore,Self-Employed,0
+45,1231109,3696609,676,6,Male,Bachelors,Delhi,Salaried,1
+42,1902980,3190411,623,15,Female,High School,Delhi,Salaried,1
+50,752419,801577,487,13,Male,Bachelors,Mumbai,Salaried,0
+55,2175159,1612934,342,36,Male,Masters,Kolkata,Salaried,0
+23,197239,544877,759,3,Female,Bachelors,Kolkata,Salaried,1
+61,1092278,582706,845,35,Male,Masters,Pune,Self-Employed,1
+62,1353966,1349567,763,16,Female,High School,Chennai,Self-Employed,1
+49,2376110,327572,775,35,Male,High School,Chennai,Salaried,1
+62,79309,1180069,616,5,Male,High School,Kolkata,Self-Employed,0
+64,351351,851567,349,15,Female,PhD,Pune,Salaried,0
+38,95896,4299782,700,28,Female,Bachelors,Hyderabad,Salaried,0
+33,2498413,950653,345,35,Male,Masters,Kolkata,Salaried,0
+38,1165418,265524,638,37,Female,High School,Pune,Salaried,1
+28,18191,305573,556,36,Male,PhD,Pune,Unemployed,0
+54,52380,145598,644,9,Female,Masters,Pune,Self-Employed,0
+53,119675,185747,794,35,Male,High School,Pune,Salaried,1
+52,1839208,307573,609,28,Male,Masters,Mumbai,Self-Employed,1
+36,1364434,138020,353,13,Male,High School,Mumbai,Salaried,0
+37,119033,69692,821,3,Male,High School,Kolkata,Salaried,1
+35,298436,197044,732,35,Male,High School,Pune,Salaried,1
+64,396195,191355,482,12,Female,PhD,Bangalore,Self-Employed,1
+58,2226481,4122891,453,17,Female,PhD,Pune,Salaried,0
+31,471602,1045282,445,32,Male,Bachelors,Bangalore,Unemployed,0
+32,1424300,1229763,773,20,Male,Masters,Mumbai,Salaried,1
+48,426022,412603,641,15,Female,Bachelors,Pune,Salaried,1
+18,1735062,269639,732,14,Female,Masters,Delhi,Unemployed,1
+20,114357,74042,750,4,Female,High School,Kolkata,Salaried,1
+33,277832,4767544,630,5,Female,Bachelors,Pune,Self-Employed,0
+40,487291,4650503,708,37,Female,Bachelors,Chennai,Self-Employed,0
+28,1996043,4927971,524,2,Male,High School,Bangalore,Unemployed,0
+29,528365,2997057,542,11,Male,Bachelors,Hyderabad,Salaried,0
+27,25382,4925609,701,35,Female,Bachelors,Hyderabad,Salaried,0
+49,78646,2033635,758,32,Female,High School,Pune,Self-Employed,0
+33,662777,676384,448,35,Female,PhD,Delhi,Self-Employed,0
+25,88794,1216704,655,32,Female,High School,Bangalore,Self-Employed,0
+55,682024,675692,762,30,Female,PhD,Delhi,Salaried,1
+29,22967,343314,536,20,Female,High School,Hyderabad,Salaried,0
+41,120074,800215,766,26,Female,High School,Kolkata,Salaried,0
+45,215053,1301946,816,26,Female,High School,Hyderabad,Salaried,1
+25,960796,705168,602,7,Female,Masters,Kolkata,Salaried,1
+45,1687771,4761623,711,36,Male,Masters,Kolkata,Salaried,1
+53,1891858,1455538,629,31,Female,High School,Mumbai,Salaried,1
+43,2103291,558766,427,25,Female,High School,Hyderabad,Self-Employed,0
+25,195081,527210,599,1,Male,Bachelors,Hyderabad,Self-Employed,0
+45,169122,145632,760,11,Male,Bachelors,Delhi,Salaried,1
+45,1935477,963402,711,21,Male,Masters,Pune,Salaried,1
+54,406773,4417209,760,16,Female,High School,Chennai,Self-Employed,0
+58,1703199,505273,370,6,Female,Bachelors,Chennai,Salaried,0
+53,1492382,636862,759,3,Female,Masters,Kolkata,Self-Employed,1
+44,1100517,1045282,570,36,Female,PhD,Chennai,Self-Employed,1
+34,1632212,3442627,750,37,Male,Bachelors,Bangalore,Unemployed,0
+26,1191958,701691,379,31,Female,High School,Delhi,Self-Employed,0
+50,88294,1526499,575,10,Female,High School,Delhi,Salaried,0
+37,81918,4118736,771,0,Male,Bachelors,Delhi,Self-Employed,0
+30,963001,781462,716,24,Female,Bachelors,Bangalore,Salaried,1
+45,2142249,891229,822,23,Female,Masters,Pune,Salaried,1
+46,1254651,380074,782,16,Female,Masters,Mumbai,Salaried,1
+30,1232635,352271,336,7,Female,Bachelors,Bangalore,Salaried,1
+63,306487,2765820,776,26,Male,Bachelors,Delhi,Salaried,0
+52,56323,1829242,645,17,Male,Bachelors,Delhi,Salaried,0
+23,380825,138535,718,26,Male,High School,Hyderabad,Self-Employed,1
+35,307888,103664,390,21,Male,High School,Delhi,Unemployed,0
+22,1415207,263014,743,15,Female,Bachelors,Pune,Salaried,1
+64,1591218,84785,610,1,Female,High School,Chennai,Salaried,1
+42,52685,914003,644,4,Female,High School,Mumbai,Salaried,0
+19,21548,572818,704,17,Male,High School,Bangalore,Unemployed,0
+27,2448158,4126861,621,2,Male,High School,Delhi,Salaried,0
+47,2281198,736069,461,26,Male,High School,Hyderabad,Unemployed,0
+62,1078688,286803,819,16,Female,Bachelors,Hyderabad,Salaried,1
+22,279830,1006555,707,15,Female,Bachelors,Kolkata,Self-Employed,1
+50,635565,4118736,552,5,Male,Bachelors,Mumbai,Salaried,0
+18,1376141,1617166,556,6,Male,Bachelors,Hyderabad,Salaried,0
+35,38472,138209,449,13,Female,PhD,Kolkata,Salaried,0
+49,15163,535513,325,37,Female,High School,Mumbai,Salaried,0
+64,1956887,474864,412,39,Female,Bachelors,Delhi,Self-Employed,0
+28,1413120,84578,557,14,Male,High School,Mumbai,Self-Employed,1
+38,82203,1199437,580,32,Male,Bachelors,Mumbai,Salaried,0
+43,788963,542221,835,26,Male,PhD,Delhi,Unemployed,0
+42,835098,883123,390,28,Male,Masters,Pune,Salaried,0
+39,2282877,1283178,758,36,Female,Bachelors,Hyderabad,Unemployed,0
+44,70114,773212,845,4,Female,Bachelors,Kolkata,Salaried,0
+30,1836907,2286100,470,28,Female,Bachelors,Pune,Unemployed,0
+50,862455,1822660,671,31,Male,High School,Kolkata,Salaried,1
+51,50631,396521,737,5,Female,Bachelors,Chennai,Salaried,0
+58,510651,4217127,622,1,Female,Bachelors,Hyderabad,Salaried,0
+52,114357,85440,784,5,Female,Bachelors,Kolkata,Salaried,1
+18,1246111,741529,565,3,Female,High School,Kolkata,Self-Employed,0
+38,189570,753214,830,28,Female,Masters,Mumbai,Salaried,1
+23,195457,4071088,370,24,Male,High School,Chennai,Unemployed,0
+45,2313349,56589,742,8,Female,High School,Delhi,Unemployed,0
+34,328870,93169,725,2,Female,Bachelors,Delhi,Unemployed,0
+22,637488,4053262,834,25,Male,High School,Bangalore,Unemployed,0
+48,40426,172226,583,26,Male,Masters,Chennai,Self-Employed,0
+22,380618,655433,658,35,Female,Bachelors,Mumbai,Unemployed,0
+55,1227346,1360185,743,31,Female,Masters,Bangalore,Unemployed,0
+20,1242849,1858213,433,0,Female,Bachelors,Bangalore,Salaried,0
+40,1067344,287980,765,15,Female,Masters,Delhi,Self-Employed,1
+54,79178,610281,608,10,Male,Masters,Kolkata,Unemployed,0
+54,2419093,4413081,493,25,Female,Bachelors,Mumbai,Self-Employed,0
+27,1515434,3918796,689,39,Male,Bachelors,Chennai,Salaried,1
+27,38499,3350339,437,0,Female,Masters,Bangalore,Salaried,0
+36,346353,253051,609,25,Female,High School,Mumbai,Self-Employed,1
+34,89172,81831,627,27,Female,Bachelors,Delhi,Unemployed,0
+38,2252462,542221,567,8,Male,High School,Bangalore,Salaried,1
+31,1203798,412603,646,21,Female,High School,Bangalore,Salaried,1
+26,499194,1336667,735,7,Female,High School,Pune,Salaried,0
+63,2335083,4702708,689,26,Male,Bachelors,Delhi,Self-Employed,0
+18,88294,2863787,453,38,Female,Bachelors,Pune,Salaried,0
+62,24686,705187,679,18,Male,High School,Delhi,Self-Employed,0
+30,1202098,3446374,393,24,Female,Masters,Delhi,Unemployed,0
+21,705735,3838524,427,37,Male,Bachelors,Pune,Self-Employed,0
+18,2390083,68074,389,20,Male,PhD,Hyderabad,Salaried,1
+57,26871,4548600,768,23,Male,PhD,Mumbai,Unemployed,0
+49,1736527,164527,421,23,Female,Masters,Mumbai,Self-Employed,1
+51,91153,4903007,658,18,Male,PhD,Hyderabad,Salaried,0
+45,2297552,1403623,417,1,Male,Masters,Mumbai,Salaried,0
+48,91153,370521,319,13,Female,Masters,Kolkata,Self-Employed,0
+25,1365363,1283410,369,31,Male,High School,Bangalore,Self-Employed,0
+56,46324,339005,827,31,Female,Bachelors,Mumbai,Unemployed,0
+43,1977266,3765401,550,27,Female,Masters,Kolkata,Salaried,1
+51,2060315,720841,430,38,Male,Bachelors,Bangalore,Salaried,1
+20,411955,3806242,731,39,Male,Masters,Mumbai,Salaried,0
+29,86966,4544898,724,39,Female,Masters,Delhi,Self-Employed,0
+18,761691,66260,423,12,Male,High School,Hyderabad,Self-Employed,0
+61,1934376,4094885,405,11,Male,Masters,Chennai,Salaried,0
+22,80450,806464,556,7,Male,High School,Mumbai,Salaried,0
+47,370040,3942517,817,14,Male,Bachelors,Chennai,Unemployed,0
+47,389910,3776839,739,25,Female,Bachelors,Mumbai,Unemployed,0
+34,35609,85733,428,11,Female,High School,Delhi,Salaried,0
+64,195457,130152,381,26,Male,Bachelors,Hyderabad,Self-Employed,0
+40,1487073,1642672,515,17,Female,Bachelors,Hyderabad,Self-Employed,0
+32,86831,623448,380,35,Male,High School,Chennai,Salaried,0
+54,2056066,2666041,401,26,Male,Masters,Kolkata,Salaried,0
+38,2473194,1199437,791,8,Male,Bachelors,Delhi,Salaried,1
+31,36675,63704,773,38,Male,Bachelors,Chennai,Salaried,1
+19,21276,943704,611,0,Female,High School,Chennai,Self-Employed,0
+28,24715,178652,813,6,Male,Masters,Pune,Salaried,1
+56,201015,1249813,490,25,Female,Masters,Pune,Salaried,0
+55,1653124,412792,428,6,Male,High School,Delhi,Salaried,0
+51,996507,135016,514,6,Female,High School,Delhi,Salaried,1
+55,833569,1782868,595,7,Female,Masters,Delhi,Self-Employed,0
+51,1067344,131780,632,15,Female,Bachelors,Bangalore,Salaried,1
+35,382017,4820928,700,2,Female,High School,Kolkata,Salaried,0
+47,2348800,117384,625,9,Male,Bachelors,Mumbai,Unemployed,0
+32,1156449,181379,750,6,Female,Bachelors,Pune,Salaried,1
+44,1231109,2221421,380,20,Male,Masters,Hyderabad,Self-Employed,0
+51,648586,144881,417,36,Female,High School,Hyderabad,Salaried,0
+55,69823,2319248,439,30,Female,Bachelors,Chennai,Unemployed,0
+50,1996043,170592,330,22,Female,High School,Pune,Self-Employed,0
+41,1602239,3029516,731,26,Male,PhD,Mumbai,Salaried,1
+32,1595071,1617166,423,21,Female,Masters,Delhi,Self-Employed,0
+47,770403,1671905,820,38,Male,Masters,Hyderabad,Salaried,1
+59,1823660,2369566,616,26,Male,Bachelors,Pune,Unemployed,0
+34,1013012,139312,575,3,Male,Bachelors,Kolkata,Salaried,1
+22,46822,3878166,485,23,Female,PhD,Kolkata,Self-Employed,0
+46,237469,4028594,487,22,Female,High School,Bangalore,Salaried,0
+21,93916,118207,420,18,Female,Masters,Pune,Self-Employed,0
+27,1462106,163985,762,2,Female,High School,Delhi,Unemployed,1
+34,1554189,3647069,475,26,Female,Bachelors,Chennai,Unemployed,0
+27,80429,558766,463,2,Female,Bachelors,Bangalore,Salaried,0
+34,2142249,2221439,366,27,Female,Masters,Delhi,Salaried,0
+37,2194780,1778935,846,16,Male,Masters,Bangalore,Salaried,1
+41,1934376,1486290,723,30,Female,Bachelors,Pune,Salaried,1
+22,455615,902780,466,9,Male,Bachelors,Mumbai,Salaried,0
+51,71088,959204,551,21,Male,PhD,Hyderabad,Salaried,0
+23,50946,54992,689,29,Female,High School,Pune,Salaried,1
+19,41966,733903,758,20,Female,Masters,Delhi,Salaried,1
+30,2043296,1478066,849,35,Male,Bachelors,Chennai,Salaried,1
+60,637103,3275481,803,22,Male,Bachelors,Chennai,Salaried,0
+60,791077,833302,374,37,Female,High School,Delhi,Salaried,0
+28,49084,141198,320,11,Male,Bachelors,Bangalore,Self-Employed,0
+64,176865,178180,460,24,Male,High School,Kolkata,Salaried,0
+40,1583555,4156316,380,19,Male,High School,Delhi,Salaried,0
+33,41160,3696609,599,6,Male,High School,Hyderabad,Salaried,0
+48,97495,3923378,625,28,Female,Bachelors,Pune,Salaried,0
+28,273672,214389,768,28,Female,Bachelors,Chennai,Self-Employed,1
+33,251426,3859062,336,12,Male,Masters,Mumbai,Salaried,0
+25,68551,1106024,330,2,Male,High School,Chennai,Salaried,0
+21,1427032,4791241,703,1,Male,Bachelors,Kolkata,Unemployed,0
+57,87146,135166,790,15,Female,Bachelors,Chennai,Unemployed,0
+21,438416,3384525,612,29,Female,Bachelors,Kolkata,Salaried,0
+42,2103291,2025938,597,37,Male,Masters,Hyderabad,Salaried,1
+20,89520,435707,704,5,Male,Bachelors,Delhi,Salaried,0
+49,2498757,1677751,550,6,Male,Masters,Chennai,Salaried,0
+20,929852,1097542,374,4,Female,Bachelors,Bangalore,Salaried,0
+44,1291842,82006,665,6,Male,Bachelors,Pune,Self-Employed,1
+46,260381,116125,786,33,Male,Bachelors,Bangalore,Salaried,1
+49,248066,1174368,532,31,Male,Masters,Pune,Unemployed,0
+36,2261019,3398558,343,12,Male,PhD,Chennai,Salaried,0
+38,1157957,155982,565,29,Male,Bachelors,Hyderabad,Salaried,1
+22,1683043,133136,428,24,Female,Masters,Chennai,Self-Employed,0
+35,862455,489385,822,20,Female,High School,Pune,Salaried,1
+45,2166246,116125,721,20,Female,PhD,Hyderabad,Salaried,1
+59,97811,1573815,799,27,Male,High School,Mumbai,Salaried,1
+39,45620,60068,508,19,Female,High School,Hyderabad,Salaried,0
+38,973866,1263120,559,33,Male,High School,Chennai,Salaried,0
+23,379297,3045716,640,4,Female,PhD,Mumbai,Salaried,0
+18,1382470,442037,751,17,Female,Masters,Mumbai,Salaried,1
+22,367613,3384525,632,38,Male,PhD,Pune,Salaried,0
+58,1496432,53358,820,10,Male,Masters,Mumbai,Unemployed,1
+29,23125,1675817,328,16,Male,Bachelors,Mumbai,Salaried,0
+43,1227346,4697851,436,21,Female,PhD,Delhi,Salaried,0
+63,253686,131326,729,36,Male,PhD,Hyderabad,Unemployed,0
+51,32625,3752289,536,19,Female,Bachelors,Bangalore,Self-Employed,0
+31,74474,4781652,526,5,Female,High School,Mumbai,Salaried,0
+43,1353966,4932878,478,33,Female,Bachelors,Bangalore,Salaried,0
+62,1370678,107616,417,13,Male,PhD,Mumbai,Self-Employed,0
+44,279830,1763544,519,22,Male,Masters,Bangalore,Salaried,0
+26,553909,770706,830,19,Male,Masters,Chennai,Self-Employed,1
+43,29210,469637,645,12,Female,PhD,Chennai,Unemployed,0
+64,268553,2360466,584,31,Female,Masters,Bangalore,Salaried,0
+39,658588,291321,531,25,Male,Masters,Hyderabad,Salaried,1
+64,1424300,1067673,833,13,Female,Masters,Mumbai,Self-Employed,1
+47,168056,959204,345,35,Female,High School,Delhi,Salaried,0
+60,181816,552621,671,7,Female,Bachelors,Hyderabad,Salaried,0
+34,379297,846032,751,39,Male,Bachelors,Bangalore,Salaried,1
+43,148777,1045282,471,21,Female,Masters,Hyderabad,Self-Employed,0
+53,406773,120409,550,21,Female,Bachelors,Kolkata,Self-Employed,1
+18,559871,3363517,588,15,Male,High School,Delhi,Unemployed,0
+25,2141211,353466,772,26,Male,High School,Kolkata,Self-Employed,1
+52,162292,161576,752,9,Male,Bachelors,Bangalore,Salaried,1
+32,208255,344282,841,24,Male,Bachelors,Mumbai,Self-Employed,1
+64,59936,3054212,329,30,Male,Bachelors,Hyderabad,Salaried,0
+39,86652,170592,420,20,Male,High School,Hyderabad,Self-Employed,0
+31,60113,119443,657,26,Female,Bachelors,Kolkata,Salaried,1
+43,1189984,221650,341,16,Female,High School,Hyderabad,Salaried,1
+45,364480,1654901,745,32,Female,Bachelors,Bangalore,Self-Employed,0
+40,83619,2916992,815,30,Female,Bachelors,Delhi,Salaried,0
+31,843701,1694235,311,25,Male,Bachelors,Mumbai,Self-Employed,0
+41,1171514,2175993,492,20,Female,Bachelors,Kolkata,Self-Employed,0
+19,162424,514557,528,35,Male,High School,Hyderabad,Salaried,0
+62,586516,2175993,542,0,Male,Masters,Bangalore,Salaried,0
+43,952891,93169,773,3,Female,Bachelors,Mumbai,Unemployed,1
+31,43625,327039,621,3,Female,High School,Mumbai,Salaried,0
+24,1687450,3730841,654,25,Male,High School,Chennai,Self-Employed,1
+20,1650023,599749,789,3,Male,Bachelors,Mumbai,Self-Employed,1
+64,755948,835525,491,8,Male,High School,Bangalore,Unemployed,0
+40,1494141,79227,698,29,Male,High School,Delhi,Self-Employed,1
+63,901067,1213867,451,3,Female,Bachelors,Pune,Self-Employed,0
+60,91260,1882472,357,4,Male,Bachelors,Chennai,Unemployed,0
+64,279980,2396419,367,22,Female,Bachelors,Bangalore,Self-Employed,0
+62,305977,3883578,492,15,Male,Masters,Bangalore,Self-Employed,0
+35,2249078,1930779,791,21,Male,High School,Bangalore,Salaried,1
+55,54532,179572,776,36,Male,PhD,Kolkata,Salaried,1
+52,22151,253687,819,7,Female,High School,Hyderabad,Self-Employed,0
+32,969164,1674609,706,32,Male,Bachelors,Kolkata,Salaried,1
+42,121727,53164,315,37,Female,High School,Delhi,Salaried,1
+54,409443,3968972,333,15,Female,Masters,Bangalore,Salaried,0
+45,44984,1390611,522,4,Female,Bachelors,Hyderabad,Self-Employed,0
+27,2437635,4820959,599,15,Male,High School,Kolkata,Salaried,1
+56,50057,1301946,822,6,Female,Bachelors,Kolkata,Salaried,0
+34,374231,1156742,703,0,Female,High School,Kolkata,Salaried,0
+56,1165418,286803,519,8,Male,Masters,Delhi,Self-Employed,0
+39,2444447,1963951,569,17,Male,Bachelors,Delhi,Salaried,1
+43,2378135,63682,725,2,Female,High School,Bangalore,Salaried,1
+61,892720,1207821,306,23,Female,Bachelors,Chennai,Salaried,0
+42,1309178,1621190,827,27,Male,High School,Bangalore,Salaried,1
+34,650158,2093246,370,9,Female,Bachelors,Kolkata,Self-Employed,0
+30,2313349,1293891,560,8,Female,Bachelors,Pune,Self-Employed,0
+37,89520,539386,745,12,Female,Bachelors,Hyderabad,Salaried,1
+42,1053091,197596,419,34,Male,PhD,Kolkata,Salaried,1
+21,361486,3898761,621,22,Female,High School,Mumbai,Unemployed,0
+27,1550098,1631187,489,16,Male,PhD,Pune,Salaried,0
+20,50298,205730,848,6,Male,Bachelors,Pune,Salaried,0
+58,97811,73929,772,15,Male,High School,Hyderabad,Salaried,1
+62,2462261,2658139,567,39,Female,Bachelors,Bangalore,Salaried,1
+35,1699775,84485,585,35,Male,Masters,Kolkata,Salaried,1
+64,130651,4203463,606,19,Female,Bachelors,Kolkata,Self-Employed,0
+53,559871,211350,744,23,Male,High School,Chennai,Salaried,1
+64,359153,1873224,527,4,Female,High School,Mumbai,Salaried,0
+39,1620356,3352670,753,5,Female,Masters,Bangalore,Salaried,1
+51,95896,1263930,830,27,Female,Bachelors,Delhi,Salaried,0
+64,29716,159863,514,4,Male,Bachelors,Bangalore,Salaried,0
+25,1201397,568117,540,38,Female,High School,Pune,Salaried,1
+57,93612,1172339,378,37,Female,Masters,Bangalore,Salaried,0
+61,1636643,72692,584,1,Male,PhD,Chennai,Self-Employed,1
+36,67249,256396,520,38,Male,High School,Bangalore,Self-Employed,0
+59,2270042,448141,603,20,Female,High School,Chennai,Salaried,1
+58,2038181,167192,729,39,Male,Masters,Pune,Salaried,1
+54,81504,97947,790,36,Male,Masters,Chennai,Self-Employed,1
+23,79309,4067791,562,17,Male,Bachelors,Hyderabad,Salaried,0
+43,121621,197878,421,11,Female,PhD,Hyderabad,Salaried,0
+51,26563,69738,710,16,Male,Bachelors,Kolkata,Self-Employed,0
+62,1425683,205209,469,36,Female,High School,Delhi,Unemployed,0
+23,2386559,1036538,637,37,Male,Masters,Pune,Salaried,1
+54,1386364,4998851,667,14,Male,Bachelors,Chennai,Salaried,0
+50,1356047,936668,846,6,Female,PhD,Mumbai,Unemployed,0
+39,1287715,1310269,708,13,Male,High School,Pune,Salaried,1
+38,2445238,263965,355,0,Male,Bachelors,Mumbai,Unemployed,0
+23,268933,180407,610,37,Male,Masters,Delhi,Salaried,1
+23,1102567,1525527,811,2,Male,Bachelors,Chennai,Salaried,1
+21,47556,3675190,355,36,Female,Bachelors,Pune,Salaried,0
+47,43982,309767,675,30,Female,Masters,Pune,Unemployed,0
+28,271033,70389,798,12,Female,Bachelors,Delhi,Unemployed,1
+47,260381,390285,729,17,Female,Bachelors,Kolkata,Salaried,1
+48,25526,160966,747,16,Female,Masters,Mumbai,Self-Employed,0
+41,86031,121088,760,16,Female,High School,Pune,Self-Employed,1
+26,21638,1407132,448,10,Female,PhD,Bangalore,Self-Employed,0
+20,200417,390285,398,19,Male,Masters,Mumbai,Self-Employed,0
+48,237924,4969656,632,9,Female,Bachelors,Chennai,Salaried,0
+57,1643521,221398,753,28,Female,Bachelors,Delhi,Salaried,1
+54,702416,125209,320,33,Female,PhD,Mumbai,Unemployed,0
+53,739017,2924993,766,16,Male,High School,Bangalore,Unemployed,0
+41,70114,528615,605,12,Female,Bachelors,Hyderabad,Salaried,0
+48,2426271,104195,558,38,Female,Bachelors,Bangalore,Salaried,1
+23,80450,492007,781,26,Female,High School,Delhi,Unemployed,0
+19,2481890,1232941,653,25,Male,Bachelors,Delhi,Salaried,1
+37,804748,785648,768,27,Female,PhD,Hyderabad,Self-Employed,1
+45,1969924,191842,390,12,Male,Masters,Mumbai,Salaried,1
+28,1650023,680751,608,11,Male,Bachelors,Chennai,Unemployed,0
+21,1267524,262712,673,27,Male,Bachelors,Kolkata,Salaried,1
+32,2277881,1175233,307,1,Male,Bachelors,Bangalore,Salaried,0
+23,444086,2916992,717,36,Female,High School,Delhi,Salaried,0
+47,85587,1658326,605,33,Male,Masters,Kolkata,Unemployed,0
+55,952891,959094,311,22,Male,Masters,Kolkata,Self-Employed,0
+19,1496432,4953028,509,28,Female,Masters,Kolkata,Self-Employed,0
+32,91559,214859,509,34,Male,Bachelors,Chennai,Salaried,0
+28,184080,287593,768,10,Male,Bachelors,Delhi,Unemployed,0
+25,156492,1024737,632,32,Male,High School,Bangalore,Self-Employed,0
+43,2215371,126173,415,10,Male,Bachelors,Delhi,Self-Employed,0
+62,46822,3997179,796,8,Male,Bachelors,Mumbai,Unemployed,0
+61,2358286,1983969,458,13,Male,PhD,Bangalore,Salaried,1
+22,405035,3048939,822,8,Female,Masters,Delhi,Self-Employed,0
+23,351435,514493,374,38,Female,PhD,Bangalore,Unemployed,0
+43,1078688,416621,408,2,Female,Masters,Mumbai,Self-Employed,0
+21,1607507,635647,753,28,Female,High School,Pune,Self-Employed,1
+36,115997,159708,439,18,Male,Bachelors,Bangalore,Salaried,0
+37,1636917,1220993,558,35,Male,High School,Pune,Self-Employed,0
+50,2298022,1273656,351,31,Male,High School,Kolkata,Salaried,0
+37,444761,4437205,321,6,Female,Bachelors,Hyderabad,Salaried,0
+29,57080,209726,324,27,Female,Masters,Chennai,Unemployed,0
+64,79641,307615,794,17,Male,Bachelors,Mumbai,Salaried,1
+18,368787,75464,748,4,Male,High School,Bangalore,Salaried,1
+43,1494141,138209,623,22,Female,High School,Mumbai,Self-Employed,1
+31,323332,1873224,419,21,Female,High School,Kolkata,Salaried,0
+55,22967,538585,538,25,Female,High School,Pune,Salaried,0
+54,1967243,65029,392,11,Female,High School,Chennai,Salaried,1
+28,2314886,211350,690,39,Male,Bachelors,Mumbai,Salaried,1
+53,63604,103218,763,18,Female,Masters,Pune,Salaried,1
+30,1000844,3275481,342,0,Female,Bachelors,Kolkata,Salaried,0
+60,1679767,794507,638,2,Male,Bachelors,Kolkata,Salaried,1
+20,344809,3350339,460,26,Male,High School,Kolkata,Salaried,0
+50,126928,170243,616,17,Male,PhD,Hyderabad,Salaried,1
+23,2390083,70389,600,29,Female,Bachelors,Pune,Unemployed,0
+27,322146,676545,603,1,Female,Masters,Bangalore,Salaried,0
+22,450343,103865,415,4,Female,PhD,Delhi,Self-Employed,0
+40,1815261,391896,470,28,Female,Masters,Mumbai,Salaried,1
+27,291775,2116220,318,32,Male,High School,Hyderabad,Self-Employed,0
+61,1335869,4531069,541,19,Male,Bachelors,Delhi,Self-Employed,0
+19,335718,983163,498,29,Female,High School,Kolkata,Salaried,0
+30,220312,496213,476,4,Female,High School,Delhi,Salaried,0
+57,91373,1175572,598,20,Female,High School,Pune,Salaried,0
+19,1653124,502619,518,14,Male,PhD,Kolkata,Self-Employed,0
+37,87909,96806,593,19,Female,PhD,Hyderabad,Salaried,1
+18,18726,53009,833,7,Male,High School,Kolkata,Unemployed,0
+54,1466920,1470990,392,30,Female,Bachelors,Chennai,Salaried,0
+26,241330,3220985,529,11,Male,PhD,Chennai,Salaried,0
+34,245016,953706,600,20,Male,Bachelors,Hyderabad,Self-Employed,0
+26,24074,4080563,731,29,Female,Bachelors,Pune,Unemployed,0
+28,2448158,326613,482,26,Male,Bachelors,Pune,Salaried,1
+32,1255111,124960,512,25,Male,Masters,Delhi,Self-Employed,1
+41,1967243,444936,631,32,Female,Bachelors,Hyderabad,Salaried,1
+55,2245219,158464,578,25,Male,Masters,Mumbai,Self-Employed,1
+52,985757,94757,469,25,Female,Bachelors,Hyderabad,Self-Employed,1
+47,45659,103592,750,35,Male,High School,Delhi,Unemployed,0
+48,1841383,185994,567,39,Male,Bachelors,Pune,Salaried,1
+22,2135956,623448,767,0,Male,High School,Mumbai,Salaried,1
+61,83785,3688124,712,14,Male,Bachelors,Hyderabad,Self-Employed,0
+31,2312853,4286319,644,0,Female,High School,Delhi,Salaried,0
+28,423064,3048939,752,10,Female,Masters,Bangalore,Self-Employed,0
+26,1301469,62497,493,1,Female,Bachelors,Bangalore,Salaried,0
+51,2409245,1963951,383,0,Male,Masters,Mumbai,Salaried,0
+29,924871,287593,820,30,Male,PhD,Chennai,Self-Employed,1
+52,681211,1531636,631,15,Female,Masters,Mumbai,Salaried,0
+52,239401,250013,595,21,Female,PhD,Delhi,Unemployed,0
+18,617886,4868423,396,17,Female,Bachelors,Kolkata,Self-Employed,0
+57,75946,498530,351,16,Female,High School,Bangalore,Self-Employed,0
+39,75233,1998632,768,29,Male,PhD,Kolkata,Salaried,1
+46,1508036,1203359,763,9,Female,Masters,Bangalore,Unemployed,0
+25,107345,644844,605,34,Male,Masters,Delhi,Self-Employed,0
+28,454717,93856,808,20,Female,Bachelors,Bangalore,Salaried,1
+58,65138,801515,816,15,Male,Bachelors,Mumbai,Salaried,0
+54,2260129,2125851,763,5,Female,High School,Kolkata,Salaried,1
+31,310545,1928371,714,2,Female,Masters,Pune,Unemployed,0
+47,776993,544877,715,20,Male,High School,Kolkata,Unemployed,0
+52,1083098,2850012,815,12,Male,High School,Delhi,Unemployed,0
+38,240629,4314546,681,17,Female,Bachelors,Pune,Self-Employed,0
+54,698137,85733,480,23,Male,Bachelors,Kolkata,Salaried,1
+22,361716,2981652,703,26,Female,High School,Hyderabad,Salaried,0
+36,303127,63233,759,3,Male,Masters,Delhi,Salaried,1
+31,2043625,85739,547,21,Female,Masters,Hyderabad,Salaried,1
+43,16367,95927,513,23,Female,Bachelors,Chennai,Salaried,0
+21,666892,804136,568,39,Female,Bachelors,Mumbai,Unemployed,0
+42,2024628,2822564,838,9,Female,PhD,Bangalore,Unemployed,0
+62,1068020,1570644,426,1,Female,High School,Hyderabad,Salaried,0
+59,892720,677910,742,39,Female,Masters,Bangalore,Self-Employed,1
+42,895807,99420,831,5,Female,High School,Bangalore,Self-Employed,1
+35,426022,518953,816,17,Female,Bachelors,Chennai,Salaried,1
+57,371640,4925609,381,16,Male,Bachelors,Mumbai,Self-Employed,0
+25,389910,272095,563,37,Male,Masters,Kolkata,Salaried,1
+56,359153,610243,739,22,Male,High School,Hyderabad,Unemployed,0
+57,86635,3446374,465,29,Female,High School,Kolkata,Self-Employed,0
+31,72993,183248,464,20,Female,Bachelors,Mumbai,Self-Employed,0
+49,20542,347735,389,9,Female,Bachelors,Pune,Salaried,0
+55,237924,3446743,836,12,Male,Bachelors,Mumbai,Salaried,0
+50,164028,1322070,706,11,Male,Bachelors,Bangalore,Salaried,0
+40,61479,598838,406,8,Male,Bachelors,Kolkata,Self-Employed,0
+32,1909064,528055,321,3,Male,High School,Mumbai,Unemployed,0
+50,1896452,792399,781,38,Male,High School,Kolkata,Salaried,1
+42,246150,73929,344,23,Female,Bachelors,Mumbai,Self-Employed,0
+34,326058,519658,427,33,Male,Bachelors,Delhi,Salaried,0
+50,47556,380074,497,38,Female,High School,Hyderabad,Salaried,0
+64,1083098,2760330,486,4,Female,High School,Bangalore,Self-Employed,0
+19,63368,650134,369,14,Female,Bachelors,Mumbai,Self-Employed,0
+31,50631,152266,404,3,Male,High School,Chennai,Salaried,0
+57,749768,2137799,517,38,Male,Bachelors,Mumbai,Salaried,0
+57,88794,3687745,737,7,Female,Bachelors,Delhi,Salaried,0
+56,77711,4379412,577,23,Male,High School,Chennai,Salaried,0
+23,390998,171585,509,27,Male,High School,Chennai,Unemployed,0
+23,2007365,125209,848,26,Female,Masters,Mumbai,Self-Employed,1
+20,1912811,172035,819,0,Female,Masters,Delhi,Salaried,1
+24,83011,232230,592,33,Female,Bachelors,Chennai,Salaried,0
+25,21638,307615,828,16,Female,Bachelors,Hyderabad,Unemployed,0
+59,910925,892850,716,36,Female,Masters,Bangalore,Self-Employed,1
+32,1514743,3457913,738,37,Male,PhD,Pune,Self-Employed,1
+64,40611,666978,749,25,Female,Bachelors,Bangalore,Salaried,0
+46,2009492,303864,545,23,Male,High School,Kolkata,Unemployed,0
+50,88770,1050606,695,38,Male,Bachelors,Kolkata,Salaried,0
+47,2453692,895558,599,20,Female,Bachelors,Delhi,Self-Employed,1
+56,1211404,1134248,569,29,Female,Bachelors,Chennai,Unemployed,0
+44,1541869,3486056,668,12,Male,Bachelors,Bangalore,Salaried,1
+53,161063,184794,618,36,Female,Masters,Bangalore,Salaried,1
+46,109503,1252082,360,2,Male,Bachelors,Pune,Salaried,0
+55,2451828,750428,781,31,Female,High School,Delhi,Salaried,1
+50,567411,631436,567,34,Female,High School,Hyderabad,Salaried,1
+54,1701260,715584,408,18,Male,Bachelors,Chennai,Unemployed,0
+44,219246,3420654,628,13,Male,High School,Delhi,Salaried,0
+50,1338574,100772,319,21,Female,Bachelors,Mumbai,Self-Employed,0
+21,1347467,79227,771,16,Female,Bachelors,Bangalore,Unemployed,1
+39,33752,343314,492,3,Female,Bachelors,Delhi,Unemployed,0
+19,364983,701691,690,39,Male,PhD,Delhi,Salaried,1
+27,486446,440011,593,18,Female,Bachelors,Pune,Salaried,1
+22,57287,63233,685,36,Female,High School,Hyderabad,Salaried,1
+27,364480,115727,570,1,Female,High School,Mumbai,Salaried,1
+50,563095,756016,831,14,Female,Bachelors,Kolkata,Self-Employed,0
+55,331390,1798899,737,1,Male,High School,Bangalore,Salaried,0
+30,92576,3420654,681,10,Male,Bachelors,Pune,Salaried,0
+48,1306527,4023969,846,22,Male,High School,Hyderabad,Salaried,1
+64,1480874,448141,460,9,Female,Bachelors,Hyderabad,Self-Employed,0
+53,81024,107062,405,2,Female,Masters,Delhi,Salaried,0
+62,227896,199888,779,4,Female,High School,Bangalore,Salaried,1
+41,1236983,3494201,469,2,Male,Bachelors,Kolkata,Salaried,0
+32,168056,122373,758,37,Male,Bachelors,Hyderabad,Self-Employed,1
+46,69823,4032623,550,12,Male,Masters,Delhi,Self-Employed,0
+25,470965,72908,803,18,Male,Bachelors,Hyderabad,Salaried,1
+22,46007,3444359,641,39,Female,Bachelors,Mumbai,Self-Employed,0
+46,564200,75095,732,34,Male,Masters,Hyderabad,Salaried,1
+64,80838,390167,811,23,Male,Bachelors,Bangalore,Salaried,0
+21,56424,754081,843,23,Female,Bachelors,Hyderabad,Salaried,0
+29,38196,4761623,338,16,Male,High School,Hyderabad,Salaried,0
+62,44300,2221421,508,39,Female,Masters,Pune,Self-Employed,0
+19,2316228,4902761,758,9,Female,Masters,Mumbai,Salaried,1
+44,2194489,449737,804,1,Female,PhD,Kolkata,Self-Employed,1
+48,59936,897206,805,22,Female,PhD,Kolkata,Salaried,0
+53,231234,3843441,684,5,Female,Masters,Bangalore,Unemployed,0
+53,412813,143664,465,1,Male,Bachelors,Kolkata,Self-Employed,0
+43,346353,211618,711,20,Male,Masters,Chennai,Self-Employed,1
+60,37740,3442627,600,34,Female,Bachelors,Pune,Self-Employed,0
+44,1297622,663092,392,28,Male,Bachelors,Bangalore,Unemployed,0
+22,572692,4003345,781,6,Female,Bachelors,Hyderabad,Unemployed,0
+37,2090381,1554981,750,28,Male,Bachelors,Chennai,Salaried,1
+28,2362881,184855,475,36,Male,Masters,Kolkata,Salaried,1
+27,155147,712035,669,22,Male,Bachelors,Hyderabad,Salaried,0
+57,217235,791451,794,32,Male,High School,Bangalore,Salaried,0
+55,2232722,102227,563,7,Male,High School,Chennai,Salaried,1
+23,915648,910957,756,11,Male,Masters,Kolkata,Salaried,1
+25,35281,569430,768,9,Male,Bachelors,Delhi,Unemployed,0
+40,2371808,2023331,641,14,Female,Bachelors,Delhi,Salaried,1
+64,1747644,754081,822,23,Female,Bachelors,Mumbai,Self-Employed,1
+43,690237,2916992,740,25,Female,Bachelors,Delhi,Salaried,0
+63,510651,2668875,753,38,Male,High School,Chennai,Self-Employed,0
+60,812023,79963,812,2,Male,Bachelors,Pune,Salaried,1
+29,2106590,3878798,372,1,Female,Masters,Delhi,Self-Employed,0
+43,137643,85440,460,5,Female,Bachelors,Bangalore,Salaried,0
+30,78037,566330,766,20,Male,Bachelors,Bangalore,Salaried,1
+57,68352,4153268,485,8,Female,High School,Bangalore,Unemployed,0
+35,156447,1625169,843,9,Female,Bachelors,Delhi,Salaried,0
+42,244129,2819745,593,35,Female,High School,Hyderabad,Salaried,0
+50,1019165,278533,547,2,Female,Bachelors,Delhi,Salaried,1
+64,2481890,205730,678,23,Male,Bachelors,Mumbai,Unemployed,1
+57,168056,2276393,705,21,Female,Masters,Pune,Salaried,1
+60,177984,4553589,475,13,Female,Bachelors,Hyderabad,Self-Employed,0
+29,24686,2286100,707,26,Female,Bachelors,Pune,Salaried,0
+61,929852,773881,381,32,Female,Bachelors,Hyderabad,Salaried,0
+53,368787,109222,713,21,Male,Bachelors,Hyderabad,Unemployed,1
+21,446130,2723503,848,28,Female,High School,Kolkata,Salaried,0
+22,56621,966405,332,18,Female,Bachelors,Mumbai,Self-Employed,0
+54,76588,284577,703,18,Female,PhD,Chennai,Salaried,1
+25,380277,435295,578,5,Female,High School,Bangalore,Salaried,0
+59,66399,106889,369,18,Female,Bachelors,Delhi,Salaried,0
+45,361716,307573,570,12,Male,Masters,Kolkata,Self-Employed,1
+48,166912,143664,756,25,Female,Bachelors,Kolkata,Self-Employed,1
+26,1650023,1858213,806,21,Female,Masters,Hyderabad,Self-Employed,1
+46,1339188,528055,822,20,Male,Bachelors,Delhi,Salaried,1
+31,79965,2040633,451,35,Female,Bachelors,Mumbai,Salaried,0
+57,440851,851567,794,1,Male,Bachelors,Kolkata,Salaried,1
+58,119033,897206,305,29,Female,Masters,Pune,Self-Employed,0
+39,1987505,676384,498,26,Male,PhD,Mumbai,Self-Employed,0
+28,820787,781462,419,6,Male,High School,Delhi,Salaried,0
+40,2239180,3917936,608,19,Female,Bachelors,Hyderabad,Salaried,0
+18,739968,3968972,732,30,Male,High School,Mumbai,Salaried,0
+63,91666,156511,768,22,Female,High School,Hyderabad,Unemployed,0
+54,2335083,3051893,374,12,Male,Bachelors,Pune,Self-Employed,0
+38,32727,1077948,429,16,Male,Bachelors,Bangalore,Salaried,0
+43,2181777,116809,335,3,Female,High School,Hyderabad,Salaried,0
+63,177984,3363517,374,13,Male,High School,Hyderabad,Salaried,0
+53,1309178,54006,714,19,Female,Bachelors,Delhi,Self-Employed,1
+40,96889,1663413,464,12,Male,PhD,Pune,Self-Employed,0
+18,40426,463328,360,2,Male,Masters,Delhi,Salaried,0
+57,1769160,2221421,622,25,Female,High School,Pune,Unemployed,0
+32,1147341,2926109,742,25,Female,Masters,Pune,Salaried,1
+38,52846,2432184,830,17,Male,Bachelors,Kolkata,Salaried,0
+64,2421134,1694235,463,31,Female,Masters,Kolkata,Self-Employed,0
+26,2306970,2102877,512,13,Female,Bachelors,Kolkata,Salaried,1
+26,87909,1993502,411,2,Male,Bachelors,Bangalore,Unemployed,0
+27,2248736,4619972,415,0,Male,Masters,Bangalore,Salaried,0
+43,92576,4020937,729,25,Female,High School,Pune,Salaried,0
+58,616219,472448,635,23,Male,PhD,Chennai,Self-Employed,1
+52,804214,139312,692,34,Female,Masters,Delhi,Salaried,1
+42,257462,1216690,739,13,Female,PhD,Kolkata,Salaried,1
+43,2173218,610226,493,2,Female,Bachelors,Delhi,Unemployed,0
+28,38499,294913,755,12,Female,High School,Hyderabad,Salaried,1
+55,33743,676379,743,13,Female,Bachelors,Pune,Salaried,0
+19,99416,293948,357,20,Female,PhD,Mumbai,Unemployed,0
+24,2459131,172019,714,25,Male,Bachelors,Pune,Salaried,1
+35,65115,1344344,796,2,Female,Bachelors,Bangalore,Salaried,0
+44,1092131,3159065,766,39,Male,Bachelors,Chennai,Self-Employed,0
+51,85017,2181789,439,3,Female,Bachelors,Mumbai,Salaried,0
+44,2440240,102999,782,35,Male,High School,Delhi,Unemployed,1
+34,200417,2713806,328,0,Male,Bachelors,Bangalore,Salaried,0
+60,1105842,119783,667,39,Male,Masters,Kolkata,Self-Employed,1
+61,1676806,959094,624,32,Female,High School,Mumbai,Salaried,1
+41,46348,618641,455,6,Male,Masters,Bangalore,Salaried,0
+42,177984,568117,742,10,Male,Bachelors,Delhi,Self-Employed,0
+24,1687450,520646,716,26,Female,Bachelors,Pune,Salaried,1
+23,109283,199351,827,13,Male,Bachelors,Delhi,Self-Employed,1
+41,46890,1980777,322,21,Male,High School,Mumbai,Salaried,0
+50,1899009,1077948,751,15,Female,Bachelors,Mumbai,Self-Employed,1
+46,48755,1046331,561,11,Male,Masters,Pune,Salaried,0
+60,28673,568863,391,9,Male,Bachelors,Mumbai,Self-Employed,0
+39,379297,666589,515,23,Female,Bachelors,Chennai,Self-Employed,0
+43,1346490,188419,430,17,Male,High School,Kolkata,Salaried,0
+45,72784,1347571,685,21,Male,Masters,Bangalore,Salaried,0
+38,411877,256396,321,8,Male,Bachelors,Pune,Salaried,0
+24,1078533,1315447,370,16,Male,Bachelors,Delhi,Salaried,0
+34,426022,242674,748,37,Female,High School,Delhi,Self-Employed,1
+37,63604,408785,367,39,Female,PhD,Kolkata,Salaried,0
+58,282684,1717999,440,12,Female,Bachelors,Mumbai,Unemployed,0
+37,495755,622217,383,36,Female,Bachelors,Mumbai,Salaried,0
+39,893409,160168,467,5,Male,Bachelors,Delhi,Unemployed,0
+45,21276,1613592,568,20,Female,Masters,Kolkata,Salaried,0
+57,16969,127154,789,35,Female,High School,Delhi,Unemployed,0
+24,1479448,1915561,773,6,Male,Masters,Mumbai,Salaried,1
+18,996507,337900,631,35,Male,Bachelors,Pune,Salaried,1
+49,2131040,90149,378,24,Male,Bachelors,Bangalore,Unemployed,0
+30,54891,1097542,346,10,Female,Bachelors,Mumbai,Salaried,0
+47,720972,921169,514,13,Male,Masters,Pune,Salaried,0
+40,1171514,184855,453,28,Male,Bachelors,Bangalore,Self-Employed,1
+36,702416,470675,376,9,Male,Masters,Hyderabad,Self-Employed,0
+49,162424,705200,597,4,Female,High School,Chennai,Salaried,0
+47,1349710,174206,444,7,Female,PhD,Kolkata,Salaried,0
+46,268553,509378,487,4,Female,High School,Pune,Self-Employed,0
+62,78646,1885970,789,23,Female,Bachelors,Chennai,Salaried,1
+46,2142613,663092,425,39,Female,Bachelors,Mumbai,Unemployed,0
+47,2056066,191449,430,25,Female,Bachelors,Hyderabad,Self-Employed,1
+33,225426,1648389,688,5,Female,Bachelors,Kolkata,Self-Employed,0
+57,52650,4877746,454,15,Male,Bachelors,Pune,Salaried,0
+36,1648510,3985404,709,35,Male,High School,Hyderabad,Unemployed,0
+35,46910,120453,638,11,Male,Bachelors,Mumbai,Salaried,0
+18,1558653,573192,742,10,Female,High School,Kolkata,Unemployed,0
+31,634832,2998653,531,2,Female,Bachelors,Kolkata,Salaried,0
+64,776993,55695,555,36,Male,High School,Mumbai,Self-Employed,1
+19,139279,835525,607,5,Male,High School,Mumbai,Self-Employed,0
+45,2342210,1621412,843,18,Female,High School,Hyderabad,Salaried,1
+47,76588,1417585,730,17,Female,Bachelors,Hyderabad,Salaried,1
+55,405107,1078518,476,15,Female,Masters,Pune,Salaried,0
+21,875960,3214343,629,22,Female,PhD,Kolkata,Salaried,0
+18,784154,472448,644,36,Female,High School,Pune,Salaried,0
+25,86652,1861516,563,8,Female,Bachelors,Hyderabad,Salaried,0
+46,1977266,1694235,567,2,Female,Bachelors,Kolkata,Self-Employed,0
+56,256570,1474932,528,7,Female,Bachelors,Pune,Self-Employed,0
+20,1494141,82766,333,37,Male,Bachelors,Mumbai,Salaried,0
+49,127044,110652,396,3,Female,High School,Mumbai,Self-Employed,0
+27,1705157,3491341,478,11,Female,Bachelors,Delhi,Unemployed,0
+27,1737199,3923378,395,30,Female,Bachelors,Hyderabad,Salaried,0
+36,686368,1442974,764,24,Male,High School,Pune,Salaried,1
+63,196722,120453,478,15,Male,Bachelors,Delhi,Salaried,0
+51,1633004,402210,574,13,Female,Bachelors,Delhi,Self-Employed,1
+50,79977,104745,783,12,Male,High School,Chennai,Self-Employed,1
+40,69823,1930017,706,6,Male,Bachelors,Kolkata,Self-Employed,0
+45,66399,605831,649,11,Male,Masters,Bangalore,Salaried,0
+49,1068651,579502,830,36,Female,Masters,Chennai,Self-Employed,1
+24,181816,89553,802,3,Female,Bachelors,Hyderabad,Salaried,1
+46,470965,705168,674,1,Female,Bachelors,Kolkata,Salaried,0
+25,1814063,183195,331,34,Female,Bachelors,Bangalore,Salaried,1
+18,592493,3214343,375,2,Female,Bachelors,Delhi,Salaried,0
+20,148868,2236824,377,3,Female,High School,Bangalore,Self-Employed,0
+41,996574,4998851,457,37,Female,Bachelors,Mumbai,Self-Employed,0
+40,25382,1464490,598,11,Male,Bachelors,Hyderabad,Unemployed,0
+25,195081,2041139,498,18,Female,Bachelors,Mumbai,Salaried,0
+64,203850,111576,391,9,Female,PhD,Pune,Unemployed,0
+54,1868266,599749,391,0,Female,Masters,Kolkata,Self-Employed,0
+20,49171,416486,644,16,Female,High School,Chennai,Salaried,0
+50,1902980,2122989,391,15,Female,High School,Hyderabad,Unemployed,0
+45,113140,1249813,518,8,Female,High School,Delhi,Self-Employed,0
+64,21471,505273,419,8,Female,Masters,Hyderabad,Salaried,0
+25,1868377,125886,470,8,Female,Masters,Kolkata,Unemployed,0
+51,106823,4982411,500,11,Male,PhD,Delhi,Self-Employed,0
+52,471931,2374842,828,14,Male,Bachelors,Mumbai,Self-Employed,1
+49,60272,1722401,786,1,Female,Masters,Hyderabad,Unemployed,0
+41,1205860,4153268,552,10,Female,Bachelors,Chennai,Salaried,0
+31,339423,4927971,333,10,Male,Masters,Chennai,Self-Employed,0
+49,57468,1507062,624,7,Female,Masters,Mumbai,Self-Employed,0
+63,63244,286803,569,31,Female,Bachelors,Bangalore,Salaried,0
+60,379297,1919510,760,5,Male,Bachelors,Chennai,Salaried,0
+33,18654,4650527,600,19,Female,Masters,Bangalore,Self-Employed,0
+21,2308258,523966,499,38,Female,Bachelors,Delhi,Salaried,1
+54,1951558,1065039,385,34,Female,High School,Chennai,Self-Employed,0
+38,338340,351542,600,7,Male,High School,Pune,Unemployed,0
+31,201015,851272,425,33,Male,Bachelors,Mumbai,Salaried,0
+48,169122,1031237,333,18,Female,Bachelors,Hyderabad,Salaried,0
+35,232723,2444874,323,6,Male,High School,Bangalore,Salaried,0
+24,27289,643599,381,30,Male,High School,Pune,Self-Employed,0
+27,2493616,2924501,779,17,Male,Bachelors,Delhi,Unemployed,0
+24,59843,1470990,676,39,Female,Bachelors,Delhi,Salaried,0
+50,985757,519752,459,13,Male,High School,Chennai,Salaried,0
+40,417650,4118736,366,38,Male,High School,Chennai,Self-Employed,0
+38,51321,1601818,657,35,Male,High School,Pune,Self-Employed,0
+36,231234,339005,381,16,Female,High School,Kolkata,Salaried,0
+36,1145275,351542,465,36,Male,Masters,Kolkata,Self-Employed,0
+53,217322,1148586,806,8,Male,High School,Chennai,Salaried,0
+46,70409,145632,649,19,Female,Masters,Kolkata,Self-Employed,0
+35,141800,1969694,700,27,Male,Bachelors,Mumbai,Salaried,0
+19,57685,116630,392,19,Male,PhD,Pune,Salaried,0
+18,409001,72553,732,35,Male,High School,Mumbai,Unemployed,1
+64,51035,1233797,406,26,Female,High School,Kolkata,Salaried,0
+22,192601,1149115,661,7,Female,High School,Chennai,Salaried,0
+37,1740016,650134,647,31,Male,High School,Mumbai,Unemployed,0
+28,51451,82766,781,0,Male,Bachelors,Delhi,Self-Employed,0
+59,356695,2788428,465,16,Male,High School,Hyderabad,Salaried,0
+19,2123729,1407132,582,8,Male,High School,Chennai,Self-Employed,0
+20,2366450,1135468,357,19,Male,Masters,Pune,Unemployed,0
+40,34169,794699,758,31,Male,Bachelors,Bangalore,Self-Employed,0
+29,1735062,116630,659,1,Female,High School,Bangalore,Salaried,1
+37,79674,510435,621,31,Male,High School,Chennai,Self-Employed,0
+22,2390083,286803,685,8,Male,High School,Kolkata,Self-Employed,1
+54,91666,3054212,777,29,Male,PhD,Mumbai,Self-Employed,0
+55,1687771,284817,422,19,Female,Masters,Mumbai,Salaried,1
+47,62614,94041,403,37,Male,Masters,Chennai,Self-Employed,0
+26,30398,163002,595,0,Female,PhD,Delhi,Salaried,0
+51,274023,4820928,576,4,Male,Bachelors,Pune,Self-Employed,0
+61,189489,639727,637,34,Male,High School,Kolkata,Unemployed,0
+52,361486,1720313,310,35,Male,Bachelors,Delhi,Salaried,0
+39,2378135,162752,681,0,Male,Masters,Chennai,Salaried,1
+61,1704923,676055,748,13,Male,Masters,Chennai,Self-Employed,1
+41,2498413,103822,609,8,Male,Bachelors,Delhi,Self-Employed,1
+34,117073,1292503,392,29,Female,Bachelors,Bangalore,Salaried,0
+27,641521,55698,824,23,Male,PhD,Chennai,Self-Employed,1
+47,1673921,129507,509,3,Male,High School,Pune,Unemployed,0
+63,185457,907792,786,13,Male,Masters,Hyderabad,Self-Employed,0
+40,34508,167229,728,24,Female,High School,Kolkata,Self-Employed,0
+49,2154224,1293891,546,3,Male,Bachelors,Delhi,Salaried,0
+34,929852,432520,811,24,Female,High School,Bangalore,Unemployed,1
+34,544900,1010809,548,9,Male,Bachelors,Delhi,Salaried,0
+31,279017,1099488,407,34,Male,Bachelors,Bangalore,Salaried,0
+26,702041,639727,676,6,Female,Bachelors,Bangalore,Salaried,1
+57,833997,448099,402,12,Female,Masters,Pune,Self-Employed,0
+19,421909,4927699,752,3,Male,Bachelors,Kolkata,Unemployed,0
+62,221673,569430,750,35,Female,Masters,Chennai,Salaried,1
+42,75631,53748,755,13,Female,High School,Bangalore,Self-Employed,1
+56,167695,3506744,356,17,Male,Masters,Chennai,Self-Employed,0
+26,1413120,1442974,661,7,Male,High School,Kolkata,Self-Employed,1
+39,2239522,2985663,444,31,Male,High School,Chennai,Self-Employed,0
+60,71273,66260,784,26,Female,High School,Pune,Salaried,1
+63,2499430,199395,303,36,Male,Bachelors,Pune,Salaried,1
+21,219119,4950501,565,22,Male,Masters,Mumbai,Unemployed,0
+43,929332,158464,352,6,Female,High School,Pune,Salaried,1
+46,650158,2965398,597,11,Female,Bachelors,Bangalore,Salaried,0
+62,1580811,1231322,564,24,Male,Masters,Kolkata,Self-Employed,1
+51,764803,1728864,314,2,Female,Bachelors,Pune,Unemployed,0
+40,1253704,1621412,789,25,Female,Masters,Delhi,Self-Employed,1
+54,47117,700364,791,3,Female,High School,Kolkata,Salaried,1
+28,33752,331004,780,35,Male,Masters,Bangalore,Salaried,1
+23,1886328,412456,325,14,Male,High School,Kolkata,Self-Employed,0
+35,1210644,1617166,465,31,Male,PhD,Pune,Salaried,0
+38,1201979,514557,483,28,Female,Bachelors,Delhi,Salaried,1
+59,1643521,161576,849,9,Male,Bachelors,Mumbai,Salaried,1
+53,364983,2353791,729,20,Male,High School,Bangalore,Self-Employed,0
+58,2386559,963402,712,15,Female,High School,Hyderabad,Salaried,1
+55,702416,1301946,623,18,Female,High School,Bangalore,Salaried,1
+51,2388097,489385,522,28,Male,Bachelors,Kolkata,Salaried,1
+34,2208770,455719,489,17,Female,High School,Hyderabad,Salaried,1
+54,1176746,100705,545,15,Male,Masters,Hyderabad,Salaried,1
+42,68352,619515,321,0,Male,High School,Chennai,Salaried,0
+55,817013,1331821,538,1,Male,Masters,Hyderabad,Self-Employed,0
+29,1644063,1975033,631,14,Female,High School,Chennai,Salaried,0
+40,54030,1403151,556,38,Female,High School,Hyderabad,Salaried,0
+59,1935633,60234,380,27,Male,Masters,Delhi,Salaried,0
+39,247977,288422,514,0,Male,Masters,Mumbai,Salaried,0
+38,495677,2116220,608,4,Male,Bachelors,Mumbai,Salaried,0
+44,1053083,943933,698,21,Male,High School,Hyderabad,Salaried,1
+48,973620,2373145,622,35,Female,Bachelors,Kolkata,Salaried,1
+23,412813,401904,572,12,Male,Bachelors,Kolkata,Unemployed,1
+44,70826,1341220,551,0,Male,Bachelors,Chennai,Salaried,0
+57,1987030,61984,644,15,Female,Bachelors,Pune,Unemployed,0
+51,426022,3045716,458,21,Male,Bachelors,Mumbai,Salaried,0
+29,1309217,1031237,824,31,Male,High School,Pune,Salaried,1
+62,92866,336109,820,15,Male,PhD,Mumbai,Self-Employed,1
+24,1058830,3878625,740,14,Male,Masters,Pune,Salaried,1
+27,294718,775610,750,11,Male,High School,Pune,Salaried,1
+62,499845,750428,436,0,Female,Bachelors,Mumbai,Unemployed,0
+34,113140,86639,458,16,Female,High School,Delhi,Salaried,0
+43,2032356,280428,767,27,Female,Masters,Delhi,Salaried,1
+38,1654245,3719759,764,6,Female,Bachelors,Kolkata,Salaried,1
+45,253741,4830527,428,8,Male,High School,Pune,Unemployed,0
+63,105105,568117,562,21,Female,High School,Pune,Unemployed,0
+19,79641,666978,335,25,Female,High School,Pune,Salaried,0
+60,2064046,144837,563,11,Female,Bachelors,Pune,Salaried,1
+18,1840093,1874657,604,6,Female,Masters,Pune,Self-Employed,0
+53,994178,178447,703,14,Female,High School,Chennai,Salaried,1
+43,2056066,3506744,437,37,Female,High School,Bangalore,Salaried,0
+46,380277,87034,341,20,Female,Bachelors,Pune,Self-Employed,0
+38,464448,3760399,589,13,Female,High School,Chennai,Salaried,0
+28,2090706,3446743,461,1,Male,Bachelors,Delhi,Self-Employed,0
+57,1184029,1568447,412,7,Female,Bachelors,Pune,Unemployed,0
+28,1479448,211350,654,5,Male,Bachelors,Delhi,Self-Employed,1
+53,31456,742445,820,36,Female,PhD,Kolkata,Salaried,1
+56,50057,203729,753,36,Female,PhD,Bangalore,Salaried,0
+57,334706,62748,417,32,Female,Bachelors,Mumbai,Salaried,0
+52,2068302,4230653,609,5,Male,Masters,Bangalore,Salaried,1
+51,123387,795330,476,25,Male,PhD,Pune,Salaried,0
+64,1227346,183609,842,38,Female,High School,Pune,Salaried,1
+41,1522031,1460183,585,36,Male,High School,Bangalore,Salaried,1
+39,808449,55698,434,13,Female,High School,Bangalore,Salaried,1
+22,901067,1502214,447,36,Male,Bachelors,Kolkata,Salaried,0
+50,118658,1216690,719,7,Male,Masters,Hyderabad,Self-Employed,0
+53,31920,4080563,643,38,Male,Bachelors,Delhi,Self-Employed,0
+64,2481890,1268668,453,12,Female,Bachelors,Mumbai,Salaried,1
+37,142092,198441,530,12,Male,Bachelors,Hyderabad,Self-Employed,0
+36,169122,74042,380,39,Male,High School,Bangalore,Self-Employed,0
+52,141321,4023969,820,27,Female,Bachelors,Mumbai,Salaried,1
+60,15207,159430,846,17,Male,High School,Bangalore,Salaried,0
+34,43179,318843,761,18,Female,High School,Delhi,Salaried,1
+62,776993,68074,708,37,Female,Masters,Mumbai,Salaried,1
+60,682024,4037171,465,31,Male,Masters,Hyderabad,Salaried,0
+51,224447,325659,752,21,Female,Masters,Chennai,Unemployed,1
+26,1908288,178447,779,1,Male,Masters,Delhi,Salaried,1
+43,369932,589546,716,12,Male,Masters,Hyderabad,Self-Employed,1
+19,1080595,2253017,496,22,Female,Bachelors,Mumbai,Salaried,0
+26,67188,278533,766,24,Male,Bachelors,Bangalore,Salaried,1
+26,88822,2819973,391,27,Male,Bachelors,Hyderabad,Salaried,0
+57,253741,753044,533,10,Female,Bachelors,Bangalore,Self-Employed,0
+34,162812,77877,474,32,Female,Bachelors,Delhi,Salaried,0
+18,339423,796860,795,23,Male,Masters,Delhi,Salaried,1
+42,1067344,4724903,692,1,Female,High School,Hyderabad,Unemployed,0
+60,252889,448099,693,29,Female,Bachelors,Bangalore,Salaried,1
+57,1000844,594295,604,16,Female,Bachelors,Mumbai,Salaried,1
+59,63244,277606,648,39,Female,High School,Hyderabad,Salaried,0
+42,21570,936668,568,33,Male,PhD,Chennai,Self-Employed,0
+56,2146403,635647,713,37,Male,High School,Kolkata,Salaried,1
+52,196722,686525,321,21,Female,Bachelors,Delhi,Salaried,0
+20,48755,4037171,740,4,Male,High School,Bangalore,Salaried,0
+54,33743,53009,342,39,Female,Masters,Mumbai,Salaried,0
+61,294509,1674527,331,15,Female,Bachelors,Delhi,Self-Employed,0
+61,2194489,614380,353,12,Male,Bachelors,Mumbai,Self-Employed,0
+47,509885,3049458,444,25,Male,Masters,Delhi,Salaried,0
+55,21638,559701,715,30,Male,Bachelors,Bangalore,Salaried,0
+51,1083098,403814,603,38,Male,High School,Mumbai,Salaried,1
+29,104135,796860,567,22,Female,High School,Bangalore,Self-Employed,0
+36,217322,1843361,778,11,Female,Masters,Mumbai,Salaried,1
+54,74889,4479802,555,13,Male,Bachelors,Delhi,Salaried,0
+61,1820752,323099,780,17,Female,High School,Kolkata,Unemployed,1
+34,1367780,285058,571,26,Male,High School,Kolkata,Salaried,1
+27,2143907,1106024,724,27,Male,High School,Hyderabad,Unemployed,0
+64,2486403,62306,383,17,Male,Bachelors,Chennai,Salaried,1
+29,399967,1612744,610,15,Female,High School,Chennai,Salaried,0
+33,162292,122373,753,15,Female,High School,Hyderabad,Salaried,1
+41,211672,1531636,569,12,Male,Bachelors,Hyderabad,Salaried,0
+36,2141211,1365369,794,28,Male,Bachelors,Pune,Salaried,1
+25,2432477,623448,420,8,Male,Bachelors,Bangalore,Salaried,0
+48,379215,1767241,414,25,Male,Bachelors,Mumbai,Unemployed,0
+38,661445,52866,789,27,Female,Bachelors,Chennai,Salaried,1
+34,368854,4255424,431,12,Female,Bachelors,Delhi,Self-Employed,0
+40,776993,226270,698,35,Male,PhD,Hyderabad,Self-Employed,1
+54,61659,1705112,701,8,Male,High School,Kolkata,Self-Employed,0
+33,2386559,140417,358,13,Female,Bachelors,Mumbai,Self-Employed,0
+23,1900511,185639,773,11,Male,Bachelors,Pune,Salaried,1
+25,254553,804011,777,31,Female,High School,Kolkata,Salaried,1
+42,233715,390167,425,37,Female,Masters,Hyderabad,Salaried,0
+35,1028936,1072544,824,2,Male,High School,Mumbai,Salaried,1
+42,1886328,1149115,768,15,Female,Bachelors,Hyderabad,Salaried,1
+29,19437,65029,458,19,Female,Bachelors,Chennai,Salaried,0
+32,57668,4927971,731,31,Female,High School,Chennai,Unemployed,0
+43,48174,4020937,530,22,Female,Bachelors,Bangalore,Unemployed,0
+58,2239180,209927,363,16,Male,Bachelors,Pune,Salaried,1
+62,92452,455658,772,15,Female,Masters,Mumbai,Salaried,0
+43,338404,1569565,402,37,Female,Masters,Pune,Salaried,0
+64,2090381,127986,369,7,Female,High School,Delhi,Salaried,0
+49,126806,4032623,778,18,Male,Bachelors,Pune,Salaried,0
+27,338340,1020935,435,29,Male,Masters,Hyderabad,Unemployed,0
+33,1096804,4019990,571,33,Male,High School,Hyderabad,Salaried,0
+24,448688,157445,644,13,Female,Bachelors,Chennai,Salaried,1
+34,54922,1523055,363,21,Male,Masters,Bangalore,Salaried,0
+40,325942,51961,785,16,Male,Bachelors,Hyderabad,Unemployed,1
+43,2070387,1485967,374,14,Male,High School,Chennai,Unemployed,0
+38,1736527,115333,583,31,Female,Bachelors,Kolkata,Self-Employed,1
+39,2288443,119855,489,12,Male,Bachelors,Chennai,Salaried,1
+24,248087,516527,551,20,Male,PhD,Mumbai,Salaried,0
+31,1315948,671761,536,39,Male,High School,Bangalore,Salaried,0
+32,1541869,81417,463,32,Female,PhD,Hyderabad,Salaried,1
+24,374231,4532838,730,26,Female,Bachelors,Mumbai,Self-Employed,0
+26,2473619,2137799,740,34,Male,High School,Delhi,Salaried,1
+25,114357,1281862,706,15,Male,Bachelors,Delhi,Salaried,0
+40,785711,1488284,422,27,Male,Bachelors,Chennai,Self-Employed,0
+46,80661,526571,667,33,Female,High School,Bangalore,Salaried,0
+35,20656,154940,702,0,Female,High School,Pune,Self-Employed,0
+48,1841207,4020937,514,30,Male,Masters,Bangalore,Salaried,0
+47,2499430,156511,570,35,Female,PhD,Bangalore,Salaried,1
+56,2114390,4864039,740,32,Male,Bachelors,Bangalore,Salaried,1
+52,2277949,533478,689,32,Female,High School,Chennai,Unemployed,0
+35,2440240,4135012,657,38,Male,Masters,Mumbai,Salaried,1
+59,20542,3486056,429,17,Female,Bachelors,Chennai,Salaried,0
+56,20704,2750774,360,22,Male,High School,Pune,Salaried,0
+34,28669,1045282,497,22,Female,PhD,Mumbai,Self-Employed,0
+31,41160,205730,507,14,Male,High School,Pune,Self-Employed,0
+48,2376110,3878166,384,25,Male,Bachelors,Kolkata,Salaried,0
+41,811822,2802009,550,29,Male,Bachelors,Kolkata,Salaried,0
+52,1169927,4903007,779,24,Male,Bachelors,Hyderabad,Unemployed,0
+61,70114,196621,376,15,Female,High School,Hyderabad,Self-Employed,0
+62,1058516,4879271,574,38,Male,Bachelors,Mumbai,Self-Employed,0
+51,448688,660188,684,13,Female,PhD,Chennai,Salaried,1
+20,1818766,88346,403,16,Female,Bachelors,Pune,Salaried,0
+54,2277881,587773,360,11,Male,Bachelors,Pune,Self-Employed,0
+60,320894,3798278,357,28,Male,High School,Hyderabad,Salaried,0
+57,24847,437330,722,31,Male,Masters,Hyderabad,Salaried,0
+43,730147,782111,848,23,Male,PhD,Delhi,Salaried,1
+40,1580388,558105,584,12,Female,Masters,Pune,Salaried,1
+61,43982,568117,847,19,Female,Bachelors,Chennai,Self-Employed,0
+56,279635,4255913,445,14,Female,PhD,Delhi,Unemployed,0
+32,345317,781462,756,3,Female,High School,Chennai,Salaried,1
+21,538547,1007440,301,33,Male,Bachelors,Bangalore,Self-Employed,0
+46,41035,51881,746,27,Female,Bachelors,Pune,Self-Employed,1
+39,487344,3429608,651,1,Male,Bachelors,Bangalore,Unemployed,0
+42,74353,2965398,463,29,Male,Masters,Kolkata,Self-Employed,0
+30,720972,734125,803,25,Female,Bachelors,Kolkata,Unemployed,0
+35,63895,1587424,689,25,Female,High School,Mumbai,Unemployed,0
+50,351924,1727328,538,19,Female,Bachelors,Pune,Salaried,0
+33,2070387,148064,838,27,Female,Bachelors,Hyderabad,Self-Employed,1
+62,88165,4677374,606,19,Female,Bachelors,Delhi,Salaried,0
+59,1739779,125426,465,10,Female,High School,Bangalore,Salaried,1
+61,1058830,1998632,463,9,Male,High School,Chennai,Salaried,0
+19,77438,3672341,435,22,Male,Bachelors,Pune,Salaried,0
+52,153072,335150,412,36,Male,Masters,Mumbai,Self-Employed,0
+59,2049523,1383043,769,18,Female,PhD,Chennai,Salaried,1
+51,246150,1534172,610,17,Male,PhD,Bangalore,Unemployed,0
+47,842829,3358308,439,26,Male,Masters,Pune,Self-Employed,0
+30,71532,937263,412,5,Male,High School,Hyderabad,Self-Employed,0
+30,1841207,68074,530,9,Male,Masters,Bangalore,Salaried,0
+35,148777,1216561,687,1,Male,Bachelors,Pune,Salaried,0
+49,66399,449737,313,23,Male,Masters,Pune,Salaried,0
+49,251426,568863,780,37,Female,Bachelors,Bangalore,Salaried,1
+52,2380662,2715295,437,27,Female,Masters,Bangalore,Self-Employed,0
+56,2314422,163502,374,27,Female,Bachelors,Chennai,Self-Employed,0
+63,253686,3698413,763,38,Male,High School,Mumbai,Salaried,0
+46,804748,2033635,645,1,Female,Bachelors,Bangalore,Self-Employed,0
+46,280302,112780,679,4,Female,High School,Kolkata,Salaried,1
+61,246150,1320082,771,10,Male,PhD,Mumbai,Salaried,1
+33,406094,3917936,572,9,Female,Bachelors,Kolkata,Self-Employed,0
+61,71088,1405751,382,1,Male,Bachelors,Chennai,Salaried,0
+64,1372552,326613,560,14,Female,PhD,Bangalore,Self-Employed,1
+27,68420,1211012,734,38,Male,Bachelors,Mumbai,Self-Employed,0
+47,290706,1181325,374,36,Male,Bachelors,Hyderabad,Self-Employed,0
+42,19114,84578,770,6,Female,High School,Bangalore,Salaried,0
+56,1346490,2826547,669,19,Male,Bachelors,Pune,Salaried,0
+37,471616,1083007,628,33,Female,Masters,Bangalore,Salaried,1
+22,1107564,3898761,739,34,Male,Masters,Hyderabad,Unemployed,0
+18,2475665,4877746,753,33,Female,PhD,Mumbai,Salaried,1
+47,2097093,96418,830,21,Female,High School,Bangalore,Salaried,1
+20,95758,498277,385,30,Male,High School,Bangalore,Unemployed,0
+62,1818766,608213,648,22,Female,High School,Delhi,Self-Employed,1
+31,544900,131780,760,18,Female,Masters,Delhi,Self-Employed,1
+47,1309217,2724045,367,3,Female,High School,Mumbai,Unemployed,0
+21,1176746,127525,451,23,Male,High School,Mumbai,Salaried,1
+35,128082,763543,641,19,Male,Bachelors,Pune,Salaried,0
+54,843912,2850012,381,38,Female,Bachelors,Pune,Salaried,0
+42,454341,601562,503,27,Female,Masters,Bangalore,Salaried,0
+18,1733077,1186213,737,38,Male,Bachelors,Kolkata,Self-Employed,1
+63,1373093,1570644,661,16,Male,Bachelors,Mumbai,Salaried,1
+32,37612,539386,515,18,Female,Bachelors,Hyderabad,Self-Employed,0
+26,25382,199351,400,34,Male,Masters,Bangalore,Salaried,0
+32,488447,533720,657,31,Male,Bachelors,Kolkata,Salaried,1
+41,37911,91777,822,38,Female,Bachelors,Delhi,Self-Employed,1
+21,1508036,150260,303,34,Male,Bachelors,Pune,Salaried,1
+29,1935633,1341220,440,29,Male,High School,Hyderabad,Self-Employed,0
+54,86308,1572378,530,16,Male,Masters,Mumbai,Unemployed,0
+54,38499,2102877,678,28,Female,High School,Bangalore,Self-Employed,0
+60,189464,286803,640,5,Male,PhD,Delhi,Salaried,0
+23,1203798,1450807,517,16,Female,High School,Chennai,Unemployed,0
+56,19470,2021341,753,16,Male,Masters,Delhi,Salaried,1
+63,487344,326202,435,13,Male,Masters,Bangalore,Self-Employed,0
+41,100781,601013,387,23,Female,Bachelors,Pune,Salaried,0
+28,1912811,318920,422,36,Female,Bachelors,Kolkata,Salaried,0
+30,730147,4982411,589,39,Female,Bachelors,Hyderabad,Unemployed,0
+51,929332,1411533,328,38,Female,Bachelors,Hyderabad,Salaried,0
+42,24435,521395,315,31,Male,High School,Chennai,Self-Employed,0
+24,150601,4203531,833,35,Female,Bachelors,Hyderabad,Salaried,1
+21,2449401,705740,381,36,Female,Masters,Chennai,Self-Employed,0
+25,353113,3164395,460,13,Female,High School,Pune,Unemployed,0
+37,2143907,100599,732,26,Male,Masters,Chennai,Salaried,1
+46,350870,2102877,458,18,Male,Bachelors,Mumbai,Self-Employed,0
+62,207539,150706,736,30,Female,Bachelors,Bangalore,Self-Employed,1
+63,178815,1081411,698,8,Female,PhD,Hyderabad,Unemployed,0
+27,1923602,250013,575,37,Female,Bachelors,Chennai,Salaried,1
+60,577175,1378963,745,16,Female,Bachelors,Delhi,Self-Employed,0
+51,1424300,104745,432,18,Male,Masters,Kolkata,Salaried,1
+43,183457,1861516,781,3,Female,PhD,Bangalore,Salaried,0
+58,1615598,1677751,415,10,Male,High School,Pune,Salaried,0
+20,2442346,2885678,756,21,Female,Bachelors,Hyderabad,Self-Employed,1
+23,266597,245256,519,3,Female,Bachelors,Delhi,Unemployed,0
+22,1883100,2783566,336,16,Male,High School,Mumbai,Salaried,0
+22,2226481,78054,716,7,Female,High School,Chennai,Self-Employed,1
+64,2286708,1833237,773,33,Female,Bachelors,Delhi,Self-Employed,1
+40,686339,109807,519,10,Female,Bachelors,Bangalore,Salaried,1
+26,93612,3385777,313,30,Female,Masters,Hyderabad,Unemployed,0
+52,648586,110410,362,10,Male,Masters,Delhi,Salaried,0
+37,1660761,2651824,396,37,Female,Bachelors,Mumbai,Salaried,0
+59,2337393,2924501,627,20,Female,High School,Kolkata,Salaried,1
+52,1378483,990271,323,29,Male,High School,Chennai,Unemployed,0
+35,2042642,4153268,455,9,Female,Bachelors,Bangalore,Unemployed,0
+34,73576,136207,419,25,Male,Bachelors,Hyderabad,Salaried,0
+41,1704535,318843,336,26,Female,High School,Chennai,Salaried,0
+20,59139,96999,419,7,Female,Bachelors,Chennai,Salaried,0
+49,321095,160966,775,38,Female,PhD,Pune,Self-Employed,1
+52,1304783,2855953,825,7,Male,Masters,Chennai,Self-Employed,1
+55,2276676,406251,414,7,Male,Masters,Delhi,Unemployed,0
+30,334627,1450807,439,33,Female,Bachelors,Delhi,Self-Employed,0
+64,1650575,4380969,376,15,Male,High School,Kolkata,Unemployed,0
+42,380618,94724,658,12,Female,High School,Mumbai,Salaried,1
+26,44300,1024062,700,22,Male,Masters,Hyderabad,Salaried,0
+21,794746,638963,517,11,Female,Bachelors,Hyderabad,Self-Employed,0
+31,83011,88134,653,26,Male,Bachelors,Bangalore,Salaried,1
+54,214586,367896,330,21,Female,High School,Delhi,Salaried,0
+51,1736281,425413,718,31,Male,Bachelors,Chennai,Salaried,1
+28,952372,1197783,654,26,Male,High School,Mumbai,Salaried,1
+58,1363349,4307199,583,1,Male,High School,Bangalore,Self-Employed,0
+20,247977,3765401,509,32,Male,Bachelors,Hyderabad,Self-Employed,0
+45,2199539,3069412,561,25,Female,Bachelors,Bangalore,Salaried,0
+46,211487,127986,716,27,Female,High School,Bangalore,Self-Employed,1
+26,1246084,2906814,428,18,Male,High School,Hyderabad,Salaried,0
+20,1058516,597819,576,4,Female,Masters,Bangalore,Self-Employed,1
+42,74353,73929,581,32,Male,Bachelors,Kolkata,Salaried,1
+51,248066,451839,821,19,Female,Bachelors,Bangalore,Self-Employed,1
+29,1735062,543150,648,29,Male,Bachelors,Mumbai,Self-Employed,1
+59,351435,66428,661,7,Female,PhD,Delhi,Self-Employed,1
+26,605400,53969,745,37,Female,High School,Mumbai,Self-Employed,1
+32,402929,4479802,552,16,Male,High School,Chennai,Self-Employed,0
+57,1313081,138302,755,0,Male,Bachelors,Pune,Salaried,1
+42,78646,433462,724,2,Male,High School,Kolkata,Self-Employed,0
+22,1739779,4032355,632,25,Male,Bachelors,Kolkata,Salaried,0
+28,123387,610520,790,30,Male,Bachelors,Chennai,Salaried,1
+51,1847860,91777,383,7,Female,PhD,Hyderabad,Salaried,0
+41,94364,253687,463,7,Male,Masters,Mumbai,Unemployed,0
+32,2368467,4379412,701,34,Female,PhD,Mumbai,Salaried,1
+55,2043625,2023331,530,38,Male,High School,Chennai,Salaried,0
+25,118489,3350339,324,27,Female,Masters,Hyderabad,Unemployed,0
+22,368787,1851690,671,3,Female,High School,Pune,Self-Employed,0
+43,46890,1621412,458,15,Male,Bachelors,Bangalore,Salaried,0
+35,56779,163776,611,12,Male,Masters,Hyderabad,Unemployed,0
+23,191396,143078,771,19,Female,High School,Bangalore,Salaried,1
+54,562068,186385,753,4,Female,Bachelors,Delhi,Self-Employed,1
+30,1250704,184164,474,36,Male,High School,Mumbai,Self-Employed,1
+45,30422,62306,464,19,Female,High School,Mumbai,Salaried,0
+22,810925,568582,831,23,Female,PhD,Chennai,Self-Employed,1
+30,2234983,1911275,401,35,Female,High School,Chennai,Salaried,0
+34,52685,2295901,724,33,Female,High School,Bangalore,Salaried,0
+57,1227346,63255,366,33,Female,Bachelors,Hyderabad,Self-Employed,0
+62,1287019,4650503,399,18,Female,Masters,Mumbai,Salaried,0
+49,95758,540435,402,16,Male,High School,Mumbai,Unemployed,0
+46,266597,631436,388,4,Male,Bachelors,Kolkata,Salaried,0
+20,1159738,414304,448,24,Male,Masters,Delhi,Salaried,0
+57,1003650,4108701,718,17,Male,High School,Delhi,Self-Employed,0
+51,192601,4610776,478,7,Female,Bachelors,Bangalore,Salaried,0
+57,509885,128484,718,26,Male,Masters,Pune,Salaried,1
+44,71088,3676850,593,14,Female,Bachelors,Hyderabad,Salaried,0
+30,204555,1339767,835,12,Female,Masters,Mumbai,Unemployed,0
+62,1224984,1860092,572,15,Male,High School,Kolkata,Salaried,0
+50,1469379,1882472,514,21,Male,PhD,Hyderabad,Salaried,0
+23,52208,1867133,365,19,Female,PhD,Mumbai,Salaried,0
+41,1045735,178180,822,12,Male,High School,Chennai,Salaried,1
+36,86260,1039608,814,19,Male,High School,Hyderabad,Salaried,0
+33,419972,434318,515,1,Female,PhD,Bangalore,Self-Employed,0
+57,2498757,2102877,421,34,Female,Bachelors,Hyderabad,Unemployed,0
+45,479810,145082,424,18,Female,Bachelors,Pune,Salaried,1
+50,391262,4405626,576,36,Female,Bachelors,Hyderabad,Salaried,0
+58,241330,794507,338,5,Female,Masters,Hyderabad,Unemployed,0
+30,2498757,3776839,687,13,Female,Masters,Hyderabad,Salaried,1
+60,1762093,54926,456,3,Male,High School,Delhi,Salaried,1
+62,1188514,2885678,762,21,Male,High School,Mumbai,Unemployed,0
+42,1679587,620497,787,38,Male,Masters,Pune,Self-Employed,1
+59,1833299,921169,641,35,Female,Masters,Bangalore,Salaried,1
+53,1785622,4314546,598,33,Female,Bachelors,Delhi,Salaried,1
+44,260372,2137799,543,26,Male,PhD,Mumbai,Salaried,0
+55,2459131,720610,346,6,Male,Masters,Kolkata,Salaried,1
+24,2306242,1708806,824,2,Male,High School,Bangalore,Self-Employed,1
+22,823853,458360,366,32,Female,Masters,Mumbai,Self-Employed,0
+60,484865,910957,415,1,Male,Bachelors,Delhi,Self-Employed,0
+62,901220,180407,737,15,Male,High School,Delhi,Salaried,1
+48,761691,134726,582,24,Male,Bachelors,Kolkata,Salaried,1
+40,25526,3941758,606,14,Female,Masters,Bangalore,Salaried,0
+59,165794,163502,712,23,Male,PhD,Bangalore,Self-Employed,1
+27,380852,2465806,344,14,Male,High School,Pune,Self-Employed,0
+49,2208770,1621190,485,30,Female,High School,Mumbai,Salaried,1
+60,282684,1491804,772,13,Female,Bachelors,Pune,Salaried,1
+47,19437,1775112,407,13,Female,Masters,Delhi,Self-Employed,0
+56,120567,747670,637,5,Female,Masters,Delhi,Salaried,0
+48,66196,1745854,726,13,Female,Bachelors,Hyderabad,Salaried,0
+35,784154,1601818,459,16,Male,Bachelors,Kolkata,Salaried,0
+53,106823,3494201,748,17,Male,High School,Kolkata,Salaried,0
+19,240905,144283,458,19,Female,Bachelors,Bangalore,Self-Employed,0
+31,1658175,4186505,723,16,Female,High School,Pune,Self-Employed,0
+30,307888,568582,348,15,Female,Masters,Delhi,Self-Employed,0
+46,271918,921635,476,39,Female,High School,Hyderabad,Unemployed,0
+29,690237,983163,844,38,Male,Bachelors,Mumbai,Unemployed,0
+56,118658,1293891,354,31,Male,High School,Hyderabad,Salaried,0
+19,572692,1654378,746,8,Female,Bachelors,Chennai,Salaried,0
+49,453323,403085,454,26,Female,High School,Mumbai,Salaried,1
+30,271033,3285844,800,32,Female,Bachelors,Kolkata,Salaried,0
+63,96709,756371,378,9,Female,High School,Mumbai,Self-Employed,0
+44,812229,2373145,531,16,Male,Masters,Delhi,Unemployed,0
+58,1357342,144837,609,35,Female,Bachelors,Pune,Self-Employed,1
+34,65138,1065864,766,16,Female,Masters,Hyderabad,Salaried,1
+57,833997,161576,811,17,Male,Bachelors,Bangalore,Salaried,1
+48,2199539,703100,355,22,Female,Bachelors,Pune,Salaried,1
+51,1494141,2175993,776,33,Male,Bachelors,Chennai,Self-Employed,1
+41,261645,2658139,437,7,Female,PhD,Bangalore,Salaried,0
+62,57652,2916992,509,12,Female,Bachelors,Chennai,Salaried,0
+52,67249,633950,763,22,Male,High School,Chennai,Salaried,0
+23,1810655,164527,660,19,Female,PhD,Delhi,Unemployed,1
+36,820787,773881,372,21,Male,High School,Delhi,Self-Employed,0
+47,56424,773091,515,22,Male,Masters,Kolkata,Unemployed,0
+24,1717770,676152,820,34,Male,High School,Kolkata,Self-Employed,1
+27,1477163,272684,776,2,Female,Bachelors,Chennai,Salaried,1
+58,103754,1063606,649,33,Female,High School,Pune,Salaried,0
+49,231234,199351,776,32,Male,PhD,Kolkata,Salaried,1
+51,1169927,2869953,507,16,Female,Bachelors,Delhi,Self-Employed,0
+45,776993,62306,786,18,Female,Bachelors,Kolkata,Unemployed,1
+32,444710,512579,325,29,Female,High School,Chennai,Salaried,0
+47,238593,138535,375,22,Male,Bachelors,Hyderabad,Salaried,0
+54,2064798,53969,615,14,Male,Masters,Bangalore,Self-Employed,1
+46,20656,443459,779,13,Female,Bachelors,Pune,Salaried,1
+39,25756,1390611,823,1,Male,High School,Pune,Self-Employed,0
+21,66112,1699084,705,38,Female,Bachelors,Mumbai,Salaried,0
+37,1985662,2299189,619,17,Female,Bachelors,Kolkata,Salaried,1
+49,1291842,416486,453,5,Female,High School,Pune,Salaried,1
+53,1558478,1239257,847,31,Male,High School,Hyderabad,Self-Employed,1
+21,1120307,157325,824,20,Male,Masters,Hyderabad,Salaried,1
+44,391262,596178,840,39,Female,PhD,Delhi,Salaried,1
+34,1620356,2093246,723,27,Male,High School,Bangalore,Unemployed,0
+29,605400,4186505,824,26,Female,Masters,Delhi,Salaried,1
+39,142821,556778,763,1,Male,High School,Kolkata,Salaried,0
+34,1094316,125426,572,32,Male,Bachelors,Chennai,Self-Employed,1
+27,426022,1503022,589,15,Male,Bachelors,Hyderabad,Salaried,0
+18,2398488,672295,340,38,Female,High School,Hyderabad,Salaried,0
+39,57080,170617,714,21,Female,Bachelors,Mumbai,Unemployed,0
+43,2380765,1292503,674,12,Female,Masters,Mumbai,Self-Employed,1
+35,756190,775425,471,1,Male,PhD,Hyderabad,Self-Employed,0
+31,1636643,1580516,704,13,Female,High School,Bangalore,Self-Employed,1
+64,686987,1240210,383,37,Female,High School,Pune,Salaried,0
+46,70249,914003,703,27,Female,PhD,Pune,Salaried,0
+29,288938,144837,380,6,Female,High School,Hyderabad,Salaried,0
+53,1521281,910776,687,17,Male,Bachelors,Pune,Unemployed,0
+52,315002,1649326,562,35,Male,High School,Mumbai,Salaried,0
+29,25756,1181325,360,35,Female,Bachelors,Chennai,Salaried,0
+24,79178,468614,387,3,Male,High School,Pune,Unemployed,0
+46,814925,291563,766,29,Male,Masters,Delhi,Self-Employed,1
+28,471602,72908,601,23,Male,Masters,Hyderabad,Unemployed,0
+50,165633,3650224,421,19,Male,High School,Pune,Self-Employed,0
+23,305977,161426,638,30,Male,Masters,Chennai,Salaried,1
+64,139071,4443631,782,23,Female,Bachelors,Hyderabad,Self-Employed,0
+32,183820,1758379,491,6,Male,High School,Bangalore,Salaried,0
+49,68352,3798432,827,25,Female,Masters,Bangalore,Salaried,1
+28,705735,931870,315,12,Female,Bachelors,Mumbai,Self-Employed,0
+40,2342503,791451,508,7,Female,High School,Chennai,Self-Employed,0
+43,1810655,4870581,753,4,Male,High School,Delhi,Unemployed,0
+51,2371522,1414101,452,12,Male,PhD,Chennai,Unemployed,0
+63,1862462,355666,834,28,Male,Masters,Delhi,Unemployed,1
+51,277876,1861516,330,19,Male,Masters,Delhi,Salaried,0
+46,1159738,187854,720,13,Female,High School,Chennai,Self-Employed,1
+21,92231,185624,449,31,Female,Masters,Hyderabad,Self-Employed,0
+34,80661,650134,401,26,Female,High School,Kolkata,Unemployed,0
+52,1747644,645935,545,24,Male,PhD,Chennai,Salaried,1
+30,71154,1232941,324,3,Female,High School,Hyderabad,Salaried,0
+58,1704535,1498961,604,20,Female,Bachelors,Delhi,Unemployed,0
+56,54882,429304,302,17,Female,Bachelors,Hyderabad,Salaried,0
+32,87588,686525,560,38,Male,Masters,Hyderabad,Self-Employed,0
+46,430817,154428,417,14,Female,Masters,Pune,Salaried,0
+46,686368,222490,413,37,Female,Bachelors,Bangalore,Salaried,1
+28,349430,3694512,660,23,Male,Bachelors,Bangalore,Self-Employed,0
+49,291775,2771965,344,7,Female,Masters,Mumbai,Salaried,0
+19,1168590,2876058,813,27,Male,High School,Bangalore,Self-Employed,0
+64,141321,1953891,580,20,Female,Masters,Kolkata,Salaried,0
+31,81504,370205,701,15,Male,PhD,Delhi,Salaried,0
+37,2239180,502619,710,15,Male,High School,Chennai,Salaried,1
+39,1145275,174997,481,34,Male,High School,Chennai,Self-Employed,0
+28,755948,516527,753,16,Female,Bachelors,Kolkata,Salaried,1
+44,371038,1455538,439,8,Female,High School,Bangalore,Self-Employed,0
+20,995384,3080728,466,34,Male,Bachelors,Delhi,Self-Employed,0
+34,49707,116630,557,28,Male,Masters,Bangalore,Self-Employed,1
+61,51059,4969656,550,38,Male,Bachelors,Hyderabad,Self-Employed,0
+45,2131040,994152,556,17,Male,High School,Mumbai,Salaried,1
+46,762299,154940,766,11,Male,Bachelors,Bangalore,Salaried,1
+38,1517297,4820711,369,18,Male,Bachelors,Mumbai,Self-Employed,0
+64,1477163,161426,503,21,Male,PhD,Chennai,Salaried,1
+33,1267524,3676850,393,14,Male,High School,Delhi,Unemployed,0
+54,1740016,705740,382,0,Male,Bachelors,Pune,Self-Employed,0
+37,71088,145082,450,1,Male,PhD,Hyderabad,Salaried,0
+23,86308,1699084,474,7,Male,Bachelors,Mumbai,Self-Employed,0
+36,2009492,85699,570,21,Male,Bachelors,Bangalore,Unemployed,1
+22,1846371,842137,701,24,Female,High School,Hyderabad,Salaried,1
+20,1254651,2348848,376,1,Male,Masters,Bangalore,Self-Employed,0
+18,1453772,1642549,604,8,Female,Bachelors,Hyderabad,Salaried,0
+55,456932,73929,563,8,Female,PhD,Chennai,Salaried,1
+32,2099253,87034,536,12,Female,Masters,Kolkata,Unemployed,0
+51,82278,763543,605,5,Male,Bachelors,Hyderabad,Self-Employed,0
+52,1472902,1767241,467,29,Female,Bachelors,Pune,Self-Employed,0
+42,97189,1322070,563,14,Male,High School,Kolkata,Unemployed,0
+41,611032,93856,578,14,Female,High School,Bangalore,Self-Employed,1
+29,34508,100772,569,6,Male,Masters,Kolkata,Self-Employed,0
+35,637888,1199437,703,10,Male,Bachelors,Hyderabad,Self-Employed,0
+32,38177,173802,335,39,Female,Bachelors,Pune,Self-Employed,0
+61,87588,742445,336,37,Female,Masters,Pune,Self-Employed,0
+33,45911,1554981,345,39,Male,High School,Delhi,Unemployed,0
+44,1376338,1036538,450,1,Female,Bachelors,Kolkata,Self-Employed,0
+25,1356626,1417585,346,38,Male,Bachelors,Delhi,Self-Employed,0
+63,1092278,228633,638,9,Male,Bachelors,Bangalore,Salaried,1
+42,31014,1383043,512,16,Male,PhD,Bangalore,Self-Employed,0
+34,2449401,794699,799,6,Female,Bachelors,Bangalore,Self-Employed,1
+46,1176746,220923,573,39,Male,Bachelors,Chennai,Self-Employed,1
+25,1702346,1658326,554,38,Male,Bachelors,Kolkata,Salaried,1
+32,810925,2926109,343,3,Male,High School,Mumbai,Unemployed,0
+44,2095600,1687935,683,34,Male,Bachelors,Pune,Salaried,1
+63,594475,3446743,433,35,Female,Bachelors,Mumbai,Salaried,0
+24,952372,164456,813,30,Female,PhD,Bangalore,Self-Employed,1
+20,1295219,2943831,418,24,Female,Masters,Hyderabad,Self-Employed,0
+46,1370678,1175233,593,12,Female,Bachelors,Hyderabad,Salaried,1
+61,812023,88134,396,17,Male,Bachelors,Kolkata,Self-Employed,0
+41,424683,205209,717,20,Male,High School,Hyderabad,Salaried,1
+20,499845,108741,821,0,Male,High School,Delhi,Salaried,1
+37,2219407,4028594,514,35,Male,Bachelors,Mumbai,Salaried,0
+63,231234,4312857,462,7,Male,Bachelors,Hyderabad,Unemployed,0
+32,637103,1851690,499,20,Male,High School,Bangalore,Salaried,0
+42,88384,1478066,406,20,Female,Bachelors,Mumbai,Salaried,0
+47,28467,56364,415,26,Male,Masters,Mumbai,Self-Employed,0
+31,79157,1383043,812,18,Male,High School,Pune,Salaried,1
+24,96571,4635009,405,22,Male,Masters,Mumbai,Self-Employed,0
+34,193808,429304,701,34,Female,High School,Bangalore,Unemployed,0
+61,456932,1487235,770,39,Male,Bachelors,Pune,Self-Employed,1
+37,1679838,470675,709,4,Male,Masters,Bangalore,Salaried,1
+53,1100517,620497,692,7,Male,Bachelors,Chennai,Salaried,1
+26,320894,3731530,540,10,Female,PhD,Hyderabad,Self-Employed,0
+55,164027,75095,519,15,Male,High School,Chennai,Salaried,1
+39,699919,943704,437,38,Male,Bachelors,Hyderabad,Salaried,0
+19,438083,100113,791,23,Female,Bachelors,Chennai,Salaried,1
+41,196468,4812920,475,20,Male,Bachelors,Mumbai,Salaried,0
+25,1941904,4812753,343,22,Female,Masters,Kolkata,Unemployed,0
+28,1253298,1032117,747,37,Male,Masters,Bangalore,Self-Employed,1
+30,88384,154428,819,7,Female,Masters,Chennai,Salaried,1
+34,1053091,2876058,776,6,Male,High School,Kolkata,Salaried,1
+25,2039660,455116,345,1,Male,Bachelors,Chennai,Unemployed,0
+38,370040,470675,737,29,Female,Bachelors,Hyderabad,Salaried,1
+35,1969924,1119348,711,12,Male,Bachelors,Chennai,Self-Employed,1
+47,477869,627709,663,22,Male,PhD,Kolkata,Salaried,1
+35,2283152,221042,663,28,Female,High School,Chennai,Unemployed,1
+63,215359,2802009,554,37,Male,Bachelors,Mumbai,Self-Employed,0
+64,1447594,139312,711,36,Female,Bachelors,Mumbai,Salaried,1
+48,89270,70855,772,19,Male,Masters,Pune,Salaried,1
+55,62614,1758379,393,32,Female,PhD,Mumbai,Self-Employed,0
+49,484865,4380969,374,28,Male,Bachelors,Delhi,Unemployed,0
+28,535292,66428,609,14,Male,High School,Pune,Salaried,1
+62,1602239,62497,381,22,Female,Bachelors,Chennai,Self-Employed,0
+42,308139,756371,348,2,Male,Bachelors,Delhi,Salaried,0
+50,1156449,1065039,739,36,Female,PhD,Bangalore,Unemployed,0
+55,130682,895558,404,28,Female,Bachelors,Kolkata,Self-Employed,0
+58,2328294,64719,583,7,Female,Bachelors,Bangalore,Salaried,1
+25,74189,1499597,779,21,Male,Bachelors,Delhi,Salaried,0
+28,76949,323769,812,28,Male,Bachelors,Mumbai,Salaried,0
+39,2013313,152421,629,1,Male,Masters,Hyderabad,Self-Employed,1
+41,606022,159708,655,0,Female,High School,Chennai,Salaried,1
+58,1068020,523966,364,19,Female,Bachelors,Pune,Salaried,0
+34,817013,4470856,343,20,Female,PhD,Hyderabad,Unemployed,0
+29,24956,4876262,389,36,Male,High School,Hyderabad,Salaried,0
+63,909940,2023004,711,7,Female,Masters,Chennai,Self-Employed,0
+49,130447,523966,745,26,Male,Bachelors,Mumbai,Salaried,0
+32,80481,1613592,458,34,Male,Bachelors,Chennai,Salaried,0
+33,44856,1782868,589,5,Male,High School,Kolkata,Salaried,0
+39,1019165,155583,345,18,Male,Bachelors,Hyderabad,Self-Employed,0
+45,358635,97947,745,17,Male,Bachelors,Kolkata,Salaried,1
+37,637103,1067673,800,0,Male,High School,Kolkata,Unemployed,0
+50,2032893,2349317,318,24,Male,Bachelors,Bangalore,Salaried,0
+27,2060592,4091219,730,26,Male,High School,Mumbai,Salaried,1
+57,58596,1207821,595,6,Female,Bachelors,Kolkata,Unemployed,0
+49,40169,905072,444,28,Male,PhD,Delhi,Salaried,0
+50,51041,189379,831,30,Male,High School,Kolkata,Salaried,1
+19,240905,883791,730,35,Female,High School,Pune,Salaried,0
+50,18191,1443789,774,18,Female,Masters,Bangalore,Self-Employed,0
+50,1679838,2125851,589,5,Female,Bachelors,Delhi,Self-Employed,0
+58,191006,71438,788,24,Female,High School,Hyderabad,Salaried,1
+30,215359,188638,637,30,Male,Bachelors,Mumbai,Salaried,1
+47,960244,4491637,421,8,Female,High School,Mumbai,Self-Employed,0
+50,785521,4406196,847,19,Female,High School,Pune,Unemployed,0
+30,310129,205730,421,9,Female,PhD,Hyderabad,Salaried,0
+43,1559500,636606,431,36,Female,Masters,Kolkata,Unemployed,0
+39,531852,1344344,529,26,Male,Bachelors,Delhi,Salaried,0
+56,38171,153754,402,12,Female,High School,Pune,Salaried,0
+19,2354336,3275481,765,1,Female,High School,Delhi,Salaried,1
+55,25106,1766540,639,20,Female,Masters,Kolkata,Salaried,0
+56,1874313,4053262,638,32,Female,High School,Hyderabad,Salaried,0
+43,63231,2319248,693,23,Male,Bachelors,Kolkata,Unemployed,0
+63,646295,56589,307,33,Female,High School,Chennai,Salaried,1
+32,2263034,1573815,679,8,Female,Bachelors,Chennai,Salaried,1
+51,911274,1733296,606,1,Female,High School,Kolkata,Salaried,0
+59,1511390,1717999,386,29,Male,Bachelors,Bangalore,Self-Employed,0
+61,130682,416486,350,21,Female,Masters,Pune,Unemployed,0
+57,2031972,610243,515,10,Female,Bachelors,Chennai,Salaried,1
+28,1335869,4633271,816,16,Male,High School,Kolkata,Salaried,1
+20,45911,4541396,576,35,Female,Masters,Delhi,Salaried,0
+23,577175,2023331,776,12,Male,High School,Pune,Salaried,1
+26,1361069,396521,435,6,Male,Bachelors,Hyderabad,Salaried,1
+23,18712,3260945,329,15,Female,Bachelors,Chennai,Salaried,0
+26,70826,800215,531,32,Female,High School,Hyderabad,Self-Employed,0
+56,56235,116630,492,0,Male,Bachelors,Bangalore,Self-Employed,0
+48,2064798,1167747,655,10,Male,Masters,Pune,Salaried,1
+49,720972,1266995,796,5,Female,PhD,Pune,Salaried,1
+58,833569,561659,498,19,Male,Bachelors,Mumbai,Self-Employed,0
+29,1677912,1773069,492,34,Male,High School,Delhi,Self-Employed,0
+25,901067,2794878,544,36,Female,Bachelors,Bangalore,Salaried,0
+25,177984,1954678,549,25,Male,Bachelors,Bangalore,Self-Employed,0
+45,113428,191355,548,11,Male,Bachelors,Hyderabad,Salaried,1
+37,457430,4405626,589,29,Male,Bachelors,Bangalore,Salaried,0
+64,94364,228633,664,27,Male,Bachelors,Delhi,Salaried,1
+24,325942,126173,810,26,Male,High School,Bangalore,Unemployed,1
+28,877501,111602,755,18,Male,High School,Mumbai,Salaried,1
+37,38291,694080,563,4,Female,Bachelors,Chennai,Unemployed,0
+33,292699,2319248,730,4,Male,Bachelors,Delhi,Salaried,0
+21,32727,4080563,433,26,Female,PhD,Bangalore,Salaried,0
+23,58753,140071,827,27,Female,Bachelors,Kolkata,Self-Employed,0
+39,1643521,2916992,584,25,Female,Masters,Chennai,Salaried,1
+43,27289,654485,587,26,Female,Masters,Hyderabad,Salaried,0
+20,76367,1133977,781,20,Female,Masters,Pune,Salaried,1
+58,1415207,1453936,623,0,Female,High School,Delhi,Unemployed,0
+59,2175159,1150068,538,27,Female,PhD,Kolkata,Salaried,0
+31,1687954,1216690,788,14,Female,High School,Pune,Salaried,1
+28,165633,753214,489,16,Male,High School,Kolkata,Salaried,0
+35,46822,3545329,711,25,Female,Bachelors,Bangalore,Self-Employed,0
+29,1818766,4186505,780,19,Female,High School,Delhi,Salaried,1
+40,214914,112901,575,24,Female,High School,Hyderabad,Salaried,1
+29,967874,147137,351,12,Male,High School,Bangalore,Salaried,0
+30,1338574,59343,654,32,Female,High School,Pune,Self-Employed,1
+42,173997,71067,338,24,Male,Bachelors,Hyderabad,Salaried,0
+62,2469831,99877,671,7,Female,High School,Mumbai,Salaried,1
+36,60033,753280,425,4,Female,Bachelors,Kolkata,Self-Employed,0
+63,610155,4186394,610,5,Male,PhD,Mumbai,Unemployed,0
+53,2135329,2221439,653,22,Female,Bachelors,Pune,Self-Employed,0
+62,1682170,735857,817,29,Male,Bachelors,Bangalore,Salaried,1
+25,87982,291321,513,13,Male,PhD,Hyderabad,Self-Employed,0
+46,1462106,662092,406,22,Female,High School,Hyderabad,Unemployed,0
+49,1309178,311361,342,10,Female,Bachelors,Hyderabad,Salaried,1
+61,1868266,4143385,647,30,Male,Masters,Chennai,Salaried,0
+35,34201,106635,572,5,Male,PhD,Kolkata,Salaried,0
+23,216859,3457913,838,10,Female,Bachelors,Chennai,Unemployed,0
+35,116029,136207,720,12,Female,High School,Delhi,Salaried,1
+36,228046,72927,840,11,Female,PhD,Kolkata,Salaried,1
+39,1909064,82299,492,1,Male,High School,Mumbai,Salaried,0
+54,1830814,1065864,413,34,Female,Bachelors,Chennai,Self-Employed,0
+49,86308,3878798,716,35,Male,Bachelors,Pune,Salaried,1
+58,1303147,1461414,522,16,Female,Bachelors,Delhi,Self-Employed,0
+20,61659,1780960,394,27,Male,Masters,Kolkata,Self-Employed,0
+45,215053,96418,413,27,Male,Masters,Hyderabad,Salaried,0
+27,1984585,833302,829,21,Female,Masters,Pune,Self-Employed,1
+52,444086,2395460,643,37,Male,High School,Delhi,Salaried,0
+46,380277,3878798,528,6,Male,Bachelors,Mumbai,Unemployed,0
+32,2448158,1721872,503,14,Male,Masters,Hyderabad,Self-Employed,0
+50,1996043,1031237,657,31,Male,Bachelors,Pune,Unemployed,0
+24,25756,529760,779,10,Male,PhD,Kolkata,Salaried,1
+29,38472,756016,405,23,Female,Masters,Delhi,Salaried,0
+47,247159,2554280,408,2,Female,Bachelors,Bangalore,Salaried,0
+38,98362,753044,610,29,Male,High School,Kolkata,Salaried,0
+48,1984146,187150,818,5,Female,Bachelors,Kolkata,Unemployed,1
+41,440851,1356922,749,1,Male,PhD,Hyderabad,Salaried,0
+37,45620,1993502,619,13,Male,Bachelors,Kolkata,Salaried,0
+54,1687450,3856759,518,17,Female,Masters,Hyderabad,Salaried,0
+21,193269,4553589,820,30,Male,Bachelors,Kolkata,Salaried,1
+45,2167540,1308175,519,12,Male,Bachelors,Bangalore,Salaried,1
+61,1173222,307449,682,25,Male,Bachelors,Pune,Salaried,1
+37,2449401,59343,629,11,Female,Bachelors,Pune,Self-Employed,1
+41,676168,502619,655,17,Female,Masters,Pune,Salaried,1
+49,765972,353466,830,8,Male,High School,Mumbai,Self-Employed,1
+58,1602239,1356922,484,20,Male,High School,Bangalore,Salaried,0
+53,81024,60234,540,39,Male,Masters,Bangalore,Self-Employed,1
+51,770914,971277,650,23,Male,High School,Delhi,Salaried,1
+53,2215371,770706,751,33,Male,Bachelors,Chennai,Unemployed,1
+19,45682,75491,665,7,Female,High School,Pune,Self-Employed,0
+32,2298022,1351238,318,32,Female,High School,Chennai,Salaried,0
+51,97205,150649,519,22,Female,Bachelors,Delhi,Salaried,0
+53,1231109,2397595,769,12,Female,Masters,Bangalore,Salaried,1
+23,1425683,4717405,777,13,Male,High School,Delhi,Self-Employed,0
+56,214914,4902761,777,13,Male,High School,Kolkata,Self-Employed,0
+59,153072,1569565,689,15,Female,High School,Delhi,Salaried,0
+29,1964028,575897,589,37,Female,Bachelors,Delhi,Salaried,1
+20,960244,2369566,639,38,Male,High School,Hyderabad,Unemployed,0
+62,2241280,100599,338,25,Female,Bachelors,Kolkata,Unemployed,0
+35,74889,1268668,457,25,Male,Masters,Hyderabad,Self-Employed,0
+57,1192148,4120700,322,0,Male,Bachelors,Chennai,Salaried,0
+38,1783022,2651824,486,31,Male,High School,Kolkata,Self-Employed,0
+32,1173590,163710,703,14,Female,Bachelors,Mumbai,Self-Employed,1
+50,254553,1983969,737,20,Female,PhD,Delhi,Salaried,0
+52,894341,354536,399,17,Female,Bachelors,Delhi,Salaried,1
+43,177984,536430,732,29,Female,Bachelors,Hyderabad,Self-Employed,0
+25,398871,1922446,849,12,Female,Bachelors,Chennai,Salaried,1
+53,2199539,4032623,569,23,Male,High School,Hyderabad,Salaried,1
+47,174071,140071,575,29,Female,Bachelors,Bangalore,Self-Employed,0
+40,1349256,852949,393,1,Male,Masters,Kolkata,Self-Employed,0
+59,181912,1568447,758,18,Male,Bachelors,Bangalore,Unemployed,0
+61,86260,136486,549,24,Male,Bachelors,Mumbai,Salaried,0
+31,325942,3949834,595,13,Female,Bachelors,Kolkata,Unemployed,0
+31,43602,515617,354,5,Female,High School,Mumbai,Salaried,0
+19,2366450,1487235,381,11,Female,High School,Mumbai,Self-Employed,0
+54,31014,216555,683,19,Female,Masters,Mumbai,Salaried,0
+22,1045735,4541396,666,22,Female,PhD,Pune,Salaried,0
+55,1267524,2283816,404,29,Female,Masters,Kolkata,Salaried,0
+62,153072,66260,625,29,Female,PhD,Kolkata,Self-Employed,1
+58,773146,1572378,605,37,Female,Bachelors,Pune,Salaried,0
+64,417677,3209725,364,29,Male,High School,Chennai,Salaried,0
+31,341130,93919,330,29,Female,Bachelors,Pune,Salaried,0
+56,2371808,1134248,707,35,Male,High School,Delhi,Salaried,1
+42,2276676,666978,342,33,Male,Masters,Bangalore,Self-Employed,0
+37,215359,107530,728,15,Male,PhD,Bangalore,Unemployed,0
+19,196468,162752,803,23,Male,Masters,Mumbai,Salaried,1
+56,972501,892172,608,13,Female,Bachelors,Kolkata,Self-Employed,0
+23,120567,4804940,404,25,Female,High School,Kolkata,Unemployed,0
